@@ -25,7 +25,7 @@ img = cv2.resize(img,(0,0),fx=4,fy=4)
 #img = cv2.GaussianBlur(img,(11,11),0)
 #Im not entirely sure what this what does, but believe it also blurs edges
 #img = cv2.medianBlur(img,9)
-#change text
+
 cv2.imshow('asd',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
