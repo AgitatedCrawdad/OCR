@@ -1,6 +1,8 @@
 from PIL import Image
 import pytesseract
 import cv2
+import numpy
+
 
 
 #invokes tesseract and saves text to a .txt file
@@ -14,24 +16,54 @@ def ocr_core(filename):
     # cv2.imshow('image', img)
     # cv2.waitKey(3000)
 
-    basewidth = 200
-    im = Image.open(filename)
+    im = binarize_image(filename, 150)
+    im.save('binarized.jpg')
+
+    #######im = Image.open(filename)
+
+
+
+    basewidth = 400
     wpercent = (basewidth / float(im.size[0]))
     hsize = int((float(im.size[1]) * float(wpercent)))
     im = im.resize((basewidth, hsize), Image.ANTIALIAS)
     im.show()
 
 
-
-
-
-    text = pytesseract.image_to_string(Image.open(filename))
+    text = pytesseract.image_to_string(im)
     # Save text to a text file
     file = open('testing.txt', 'w')
     file.write(text)
     file.close()
 
     return text
+
+
+
+
+def binarize_image(img_path, threshold):
+    """Binarize an image."""
+    image_file = Image.open(img_path)
+    image = image_file.convert('L')  # convert image to monochrome
+    image = numpy.array(image)
+    image = binarize_array(image, threshold)
+    im = Image.fromarray(image)
+
+    return im
+
+
+
+
+
+def binarize_array(numpy_array, threshold=100):
+    """Binarize a numpy array."""
+    for i in range(len(numpy_array)):
+        for j in range(len(numpy_array[0])):
+            if numpy_array[i][j] > threshold:
+                numpy_array[i][j] = 255
+            else:
+                numpy_array[i][j] = 0
+    return numpy_array
 
 #Execute tesseract
 #text = ocr_core(r'receipts/scanned.jpg')
