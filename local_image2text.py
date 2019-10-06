@@ -1,61 +1,107 @@
 from PIL import Image
 import pytesseract
+import cv2
 
 
-
+#invokes tesseract and saves text to a .txt file
 def ocr_core(filename):
     #Function to read the text from an image
+    #im = Image.open(filename)
+    #im.show()
+    # img = cv2.imread(filename,0)
+    # retval, img = cv2.threshold(img, 110, 255, cv2.THRESH_BINARY)
+    # img = cv2.resize(img, (0, 0), fx=.5, fy=.5)
+    # cv2.imshow('image', img)
+    # cv2.waitKey(3000)
+
+    basewidth = 200
+    im = Image.open(filename)
+    wpercent = (basewidth / float(im.size[0]))
+    hsize = int((float(im.size[1]) * float(wpercent)))
+    im = im.resize((basewidth, hsize), Image.ANTIALIAS)
+    im.show()
+
+
+
+
+
     text = pytesseract.image_to_string(Image.open(filename))
+    # Save text to a text file
+    file = open('testing.txt', 'w')
+    file.write(text)
+    file.close()
+
     return text
 
 #Execute tesseract
-text = ocr_core('chipotle.png')
+#text = ocr_core(r'receipts/scanned.jpg')
 
 
 #Save text to a text file
-file = open('testing.txt', 'w')
-file.write(text)
-file.close()
+#file = open('testing.txt', 'w')
+#file.write(text)
+#file.close()
 
 
-list_of_lines = []
 
-print(text)
+
+#list_of_lines = []
+
+
 
 
 #read the text from the text file
 #To parse the data correctly i had to read it line by line from a textfile
 #reading line by line simply from the tesseract did not return what i wantd
-with open('testing.txt','r') as handle:
-    #parses the data by line and by space
-    for line in handle:
-        test = line.split()
-        if not test:
-            print(" ")
-        else:
-            #makes a list of parsed lines
-            list_of_lines.append(test)
+def read_text(filename):
+    text = ocr_core(filename)
+    with open('testing.txt','r') as handle:
+        #parses the data by line and by space
+        list_of_lines = []
+        for line in handle:
+            test = line.split()
+            if not test:
+                print(" ")
+            else:
+                #makes a list of parsed lines
+                list_of_lines.append(test)
+
+    print(list_of_lines)
+    return list_of_lines
+
 
 
 def list_to_dict(list):
-    #function to make a dictionary of baed on item and amount
+    #function to make a dictionary of based on item and amount
     #ex. "burrito":7.29, "tax":0.95"
     #just one thought i had on being able to parse the correct data
-    #this has to be ised in conjection with the del_int function
+    #this has to be used in conjunction with the del_int function
     dict_i = {}
     dict_f = {}
     for item in list:
-        try:
-            dict_f[item[-2]] = float(item[-1])
+        if len(item) > 1:
 
-        except:
-            pass
-            #print('not a float')
-        try:
-            dict_i[item[-2]] = int(item[-1])
-        except:
-            pass
-            #print('not an integer')
+            price = item[-1]
+            purchased = item[-2]
+            if '$' in price:
+                price = price[1:]
+                print(price)
+            else:
+                price = price
+
+            try:
+                dict_f[purchased] = float(price)
+
+            except:
+                pass
+                #print('not a float')
+            try:
+                dict_i[purchased] = int(price)
+            except:
+                pass
+                #print('not an integer')
+        else:
+            print('only one item in line')
     return (dict_i, dict_f)
 
 
@@ -70,11 +116,12 @@ def del_int(dict_i, dict_f):
 
 
 
-dictionary_i, dictionary_f = list_to_dict(list_of_lines)
+def run(filename):
+    list_of_lines = read_text(filename)
+    dictionary_i, dictionary_f = list_to_dict(list_of_lines)
+    final_dictionary = del_int(dictionary_i, dictionary_f)
+    print(final_dictionary)
 
-final_dictionary = del_int(dictionary_i, dictionary_f)
-print(final_dictionary)
 
-
-
+#run(r'receipts/scanned.jpg')
 
