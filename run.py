@@ -4,5 +4,6 @@ from scan import scan
 
 if __name__ == '__main__':
 
-    scanned_image_name = scan(r'binarized.jpg')
+    image_path = i2p.binarize_image(r'receipts/tjoes_3.jpg',150)
+    scanned_image_name = scan(image_path)
     i2p.run(scanned_image_name)
