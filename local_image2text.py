@@ -16,10 +16,10 @@ def ocr_core(filename):
     # cv2.imshow('image', img)
     # cv2.waitKey(3000)
 
-    im = binarize_image(filename, 150)
-    im.save('binarized.jpg')
+    # im = binarize_image(filename, 150)
+    # im.save('binarized.jpg')
 
-    #######im = Image.open(filename)
+    im = Image.open(filename)
 
 
 
@@ -48,8 +48,10 @@ def binarize_image(img_path, threshold):
     image = numpy.array(image)
     image = binarize_array(image, threshold)
     im = Image.fromarray(image)
+    im_path = 'binarized.jpg'
+    im.save(im_path)
 
-    return im
+    return im_path
 
 
 
