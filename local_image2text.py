@@ -8,28 +8,19 @@ import numpy
 #invokes tesseract and saves text to a .txt file
 def ocr_core(filename):
     #Function to read the text from an image
-    #im = Image.open(filename)
-    #im.show()
-    # img = cv2.imread(filename,0)
-    # retval, img = cv2.threshold(img, 110, 255, cv2.THRESH_BINARY)
-    # img = cv2.resize(img, (0, 0), fx=.5, fy=.5)
-    # cv2.imshow('image', img)
-    # cv2.waitKey(3000)
-
-    # im = binarize_image(filename, 150)
-    # im.save('binarized.jpg')
-
-    im = Image.open(filename)
 
 
+    #i dont think tesseract can interperate an array so i convert from opencv
+    #format to PIL format
 
-    basewidth = 400
-    wpercent = (basewidth / float(im.size[0]))
-    hsize = int((float(im.size[1]) * float(wpercent)))
-    im = im.resize((basewidth, hsize), Image.ANTIALIAS)
-    im.show()
+    img = cv2.cvtColor(filename, cv2.COLOR_BGR2RGB)
+    im_pil = Image.fromarray(img)
+    im = im_pil
 
+    #resize image because tesseract is picky. this can probably still be tweaked
+    im = image_resize_pil(im, 400)
 
+    #invoke tesseract and save text to file
     text = pytesseract.image_to_string(im)
     # Save text to a text file
     file = open('testing.txt', 'w')
@@ -40,7 +31,7 @@ def ocr_core(filename):
 
 
 
-
+#the next two functions binarize an image using numpy and PIL which is indirect and takes too long
 def binarize_image(img_path, threshold):
     """Binarize an image."""
     image_file = Image.open(img_path)
@@ -51,7 +42,7 @@ def binarize_image(img_path, threshold):
     im_path = 'binarized.jpg'
     im.save(im_path)
 
-    return im_path
+    return im_path, im
 
 
 
@@ -101,6 +92,7 @@ def read_text(filename):
                 list_of_lines.append(test)
 
     print(list_of_lines)
+    print(list_of_lines)
     return list_of_lines
 
 
@@ -149,7 +141,50 @@ def del_int(dict_i, dict_f):
     return (dict_f)
 
 
+#function to resize an image but keep the same aspect ratio (drag corners) in opencv
+def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
+    # initialize the dimensions of the image to be resized and
+    # grab the image size
+    dim = None
+    (h, w) = image.shape[:2]
 
+    # if both the width and height are None, then return the
+    # original image
+    if width is None and height is None:
+        return image
+
+    # check to see if the width is None
+    if width is None:
+        # calculate the ratio of the height and construct the
+        # dimensions
+        r = height / float(h)
+        dim = (int(w * r), height)
+
+
+#same function as above but for PIL
+def image_resize_pil(image, width):
+    basewidth = width
+    wpercent = (basewidth / float(image.size[0]))
+    hsize = int((float(image.size[1]) * float(wpercent)))
+    image = image.resize((basewidth, hsize), Image.ANTIALIAS)
+    image.show()
+    return image
+
+#reads in an image and binarizes it. then converts to RGB and then converts to
+#PIL format for the scan function (i might be able to get around the reconverting, but i'd
+#have to look more into the scan function
+def binarize_cv(filename, threshold):
+
+    img = cv2.imread(filename)
+    grayscaled = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    retval2, threshold2 = cv2.threshold(grayscaled, threshold, 255, cv2.THRESH_BINARY)
+    img = cv2.cvtColor(threshold2, cv2.COLOR_GRAY2RGB)
+    image_b = Image.fromarray(img)
+
+    return image_b
+
+
+#calls the necessary functions
 def run(filename):
     list_of_lines = read_text(filename)
     dictionary_i, dictionary_f = list_to_dict(list_of_lines)

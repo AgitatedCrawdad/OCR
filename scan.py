@@ -1,11 +1,11 @@
 # import the necessary packages
 from transform import four_point_transform, order_point
 from skimage.filters import threshold_local
-import numpy as np
+import numpy
 import argparse
 import cv2
 import imutils
-
+from PIL import Image
 '''
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
@@ -15,8 +15,14 @@ args = vars(ap.parse_args())
 '''
 # load the image and compute the ratio of the old height
 # to the new height, clone it, and resize it
-def scan(filename):
-    image = cv2.imread(filename)
+def scan(bin_image):
+    image = cv2.cvtColor(numpy.array(bin_image), cv2.COLOR_RGB2BGR)
+
+    #image = cv2.imread(bin_image)
+
+
+
+
     ratio = image.shape[0] / 500.0
     orig = image.copy()
     image = imutils.resize(image, height=500)
@@ -24,15 +30,17 @@ def scan(filename):
     # convert the image to grayscale, blur it, and find edges
     # in the image
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
+
     gray = cv2.GaussianBlur(gray, (5, 5), 0)
     edged = cv2.Canny(gray, 75, 200)
 
     # show the original image and the edge detected image
-    print("STEP 1: Edge Detection")
-    cv2.imshow("Image", image)
-    cv2.imshow("Edged", edged)
-    cv2.waitKey(3000)
-    cv2.destroyAllWindows()
+    #print("STEP 1: Edge Detection")
+    #cv2.imshow("Image", image)
+    #cv2.imshow("Edged", edged)
+    #cv2.waitKey(3000)
+    #cv2.destroyAllWindows()
 
     # find the contours in the edged image, keeping only the
     # largest ones, and initialize the screen contour
@@ -53,11 +61,11 @@ def scan(filename):
             break
 
     # show the contour (outline) of the piece of paper
-    print("STEP 2: Find contours of paper")
+    #print("STEP 2: Find contours of paper")
     cv2.drawContours(image, [screenCnt], -1, (0, 255, 0), 2)
-    cv2.imshow("Outline", image)
-    cv2.waitKey(3000)
-    cv2.destroyAllWindows()
+    #cv2.imshow("Outline", image)
+    #cv2.waitKey(3000)
+    #cv2.destroyAllWindows()
 
 
     # apply the four point transform to obtain a top-down
@@ -71,14 +79,14 @@ def scan(filename):
     warped = (warped > T).astype("uint8") * 255
 
     # show the original and scanned images
-    print("STEP 3: Apply perspective transform")
-    cv2.imshow("Original", imutils.resize(orig, height=650))
-    cv2.imshow("Scanned", imutils.resize(warped, height=650))
-    cv2.waitKey(3000)
-    cv2.imwrite('scanned.jpg', warped)
+    #print("STEP 3: Apply perspective transform")
+    #cv2.imshow("Original", imutils.resize(orig, height=650))
+    #cv2.imshow("Scanned", imutils.resize(warped, height=650))
+    #cv2.waitKey(3000)
+    #cv2.imwrite('scanned.jpg', warped)
     jpg_name = 'scanned.jpg'
 
-    return jpg_name
+    return jpg_name, warped
 
 
 
