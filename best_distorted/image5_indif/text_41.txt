@@ -1,0 +1,37 @@
+OSH
+
+Ovarlend Park - 913-227-770
+10/11/2019 09:96 AM EXPIRES 01/09/2020
+
+CAURDRY CLEANING AND CLOSET
+(003040059 ATP. FRESHENE T $8.59
+03060234 CASCADE T $8.99
+STATIONERY & OFFICE SUPPLIES
+
+061051951 PAPER
+
+SUBTOTAL
+T = KS TAX 9.10000 on $20.37
+‘TOTAL,
+74997 DISCOVER NETWORK CHARGE
+AID: 0000001529010
+Discover
+AUTH CODE: Ot1828
+
+RECH2-9284-1787-0169-0958-3 YCDN751~259-845
+
+Help make your Target Run bette
+Take 8 2 nlnute survey about teday'e trip
+
+informtarget.com
+sor Ds 7071 Shia. 396
+
+Paseword: 696 417
+
+CUpNTENOS EN ESPAgOL
+
+Please take this survey within 7 dave
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 500, "blocksize": 51, "constant": 10, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["Park", "913-227-770", "EXPIRES", "CLEANING", "AND", "CLOSET", "ATP.", "03060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "061051951", "PAPER", "SUBTOTAL", "TAX", "9.10000", "74997", "DISCOVER", "NETWORK", "CHARGE", "0000001529010", "Discover", "Help", "make", "your", "Target", "Run", "Take", "survey", "about", "trip", "7071", "396", "696", "417", "Please", "take", "this", "survey", "within"]

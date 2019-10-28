@@ -1,0 +1,53 @@
+Qystland Park - 913-927-7770
+WWir41/2019 09:38 AM EXPIRES 01/09/2029
+
+NULL YE UL ATLTT TTT
+
+LAUNDRY CLEANING AND CLOSET
+
+O69 ATE: PRESHENE Lo $8.5
+20234 CASCADE Tt $5.95
+STATIONERY @ OFFYCE SUPPLIES.
+
+F3A082951 PAPER Tt 98.78
+
+    
+ 
+
+ 
+
+ 
+
+‘SUBTOTAL $20.37
+
+1+ KS TAK 9.40000 on $20.97 $185
+FAL $22
+
+s4907 DISCOVER NETWORK GUAGE Sazde
+
+AIG: AObO0N915230%0
+
+ 
+
+worm oon: “STEER
+
+ 
+
+02 -9284-1757-0169+0958-3 VODHIS1-259-
+
+Hela make your Target Run better.
+Take a 2 mitute curvay about today's" try
+
+ 
+
+Jnformterget, com
+User The 7078 aes ‘goes
+Paseword: 696 417
+
+CUnNTENDS EN ESPAROL
+
+Whemes tale this aur way with 7 hw
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 2, "width": 500, "blocksize": 151, "constant": 10, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["Park", "913-927-7770", "EXPIRES", "NULL", "LAUNDRY", "CLEANING", "AND", "CLOSET", "20234", "CASCADE", "STATIONERY", "SUPPLIES.", "PAPER", "98.78", "9.40000", "DISCOVER", "NETWORK", "worm", "make", "your", "Target", "Run", "better.", "Take", "about", "try", "com", "User", "The", "7078", "696", "417", "tale", "this", "way", "with"]

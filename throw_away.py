@@ -39,6 +39,7 @@ def dilate(kernel_size, iterations, image):
 
     return dilated
 
+
 def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
     # initialize the dimensions of the image to be resized and
     # grab the image size
@@ -70,6 +71,7 @@ def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
     # return the resized image
     return resized
 
+
 def thresholding(image, blocksize, thresh_type, constant):
 
     grayscaled = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -82,6 +84,7 @@ def thresholding(image, blocksize, thresh_type, constant):
 
     return binarized
 
+
 def write_image(out_folder, o_filename, image):
     o_filename = o_filename[:-4]
     file_name = o_filename + '.jpg'
@@ -92,16 +95,14 @@ def write_image(out_folder, o_filename, image):
     cv2.imwrite(path, image)
 
 
-
 def generate_images(image, name):
     #lists to iterate over :)
-    kernel_list = range(3,8,2)
-    iterations = range(1,6,1)
-    width_list = range(250, 800, 50)
-    blocksize_list = range(51, 202, 20)
-    constant_list = range(1, 20, 2)
-    thresh_type = ['gaussian', 'mean']
-
+    kernel_list = range(3, 4, 2)
+    iterations = range(1, 3, 1)
+    width_list = range(400, 600, 100)
+    blocksize_list = range(51, 202, 100)
+    constant_list = range(1, 18, 9)
+    thresh_type = ['mean']
 
     #initialize variables
     original_name = name + '_generated_images'
@@ -150,8 +151,9 @@ def generate_images(image, name):
             except:
                 print('image could not be eroded')
 
-    return images_generated_b, images_generated_s
+    images = images_generated_b + images_generated_s
 
+    return images
 
 
 def assign_image(image, property_dict):
@@ -163,16 +165,18 @@ def assign_image(image, property_dict):
         temp_image.add_property(key, value)
     return temp_image
 
+
 def main(folder_of_images):
+
+
     for filename in os.listdir(folder_of_images):
 
         path = folder_of_images + '/' + filename
         name = filename[:-4]
-        images_b, images_s = generate_images(path, name)
+        images = generate_images(path, name)
 
 
-
-    return images_b, images_s
+    return images
 
 
 if __name__ == '__main__':

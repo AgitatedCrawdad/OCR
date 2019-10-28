@@ -9,10 +9,12 @@ class image_ocr:
 
     def __init__(self):
         self.properties = {'erode_kernel':None, 'erode_iter':None, 'dilate_kernel':None, 'dilate_iter':None,
-                           'width':None, 'blocksize':None, 'constant':None, 'thresh_type':None}
+                           'width':None, 'blocksize':None, 'constant':None, 'thresh_type':None, 'scanned':False}
         self.text = ''
         self.image = None
         self.string_count = 0
+        self.original_name = ''
+        self.words = []
 
     def add_property(self, property, value):
         if property in self.properties.keys():
@@ -34,6 +36,14 @@ class image_ocr:
 
     def add_string_count(self, count):
         self.string_count = count
+
+    def add_name(self, name):
+        self.original_name = name
+
+    def add_words(self, words):
+        self.words = words
+
+
 
 
 if __name__ == '__main__':

@@ -1,0 +1,42 @@
+yor land Park ~ 913-997-7770
+i/11/2019 09:36 AM ENPIRES 019/209
+
+POCUTALAUD OE CUE ETD ANAND
+
+LAUNDRY CLEANING AND CLOSET
+
+‘62030089 ATE: FRESHENE To gy
+.sDED284 CASCADE T $5.49
+
+STATIONERY @ OFFICE SUPPLIES
+
+51051951 PAPER To $8.78
+
+SUBTOTAL $20.37
+1 = KS TAK 9.10000 on $20.37 $1.85
+TOVAL «= $22.22
+
+4997 DISCOVER NETWORK CHARGE $22.22
+AID: AODOODOI52361t1
+
+Discover
+
+AUTH CODE: O1182R
+
+FEc#2-9284-1787-0160-0358-3 YCDH781-259- 54%
+
+1, Hele make your Target Run better
+Toke a 2 minute survey about today's’ trips
+
+inforatarget com
+User ID: 7071 5824 3983
+
+Pasenord: 696 417
+
+CUnNTENDS EN ESPApOL
+
+Meee toke tne a vuy within 7 ave
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 2, "width": 500, "blocksize": 151, "constant": 10, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["land", "Park", "913-997-7770", "CUE", "ETD", "LAUNDRY", "CLEANING", "AND", "CLOSET", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "51051951", "PAPER", "SUBTOTAL", "9.10000", "4997", "DISCOVER", "NETWORK", "CHARGE", "Discover", "make", "your", "Target", "Run", "better", "Toke", "minute", "survey", "about", "trips", "com", "User", "7071", "5824", "3983", "696", "417", "toke", "within", "ave"]

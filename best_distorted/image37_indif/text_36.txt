@@ -1,0 +1,48 @@
+Oygrland Park ~ 913-327-7770
+. 1071172019 09:36 AM EXPIRES 01/09/2020
+
+MUTUALS LL UTR TE
+
+(QNDRY CLEANING AND CLOSET
+‘003040089 ATE. FRESHENE
+
+I $8.39
+
+03060234 CASCADE T ($5.98
+STATIONERY & OFFICE SUPPLIES
+
+R | OBLO51951 PAPER T $5.78
+
+SUBTOTAL $20.37
+
+¥ = KS TAK 9.20000 on $20.57 Be
+
+ 
+
+24997 DISCOVER NETWORK Gunde 2
+
+ab" 6000001820610
+Discover
+
+AUTH CODE, =~ OL182R
+
+   
+
+REORZ-9284-17S7-OLE3-0058-3 VODKTS1~259-845
+
+Help make your Target Gun better.
+Tako a 2 miraite survey about today’s trip:
+
+   
+
+Soformtarget.com.
+User Ty 307 gba4 2963
+Paseword: 696 417
+
+CUSNTENOS EN ESPAeOL
+
+Plence taka thie curvey within 7 dave
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 500, "blocksize": 51, "constant": 10, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["Park", "913-327-7770", "1071172019", "EXPIRES", "MUTUALS", "CLEANING", "AND", "CLOSET", "ATE.", "03060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "PAPER", "SUBTOTAL", "9.20000", "24997", "DISCOVER", "NETWORK", "6000001820610", "Discover", "Help", "make", "your", "Target", "Gun", "better.", "survey", "about", "User", "307", "2963", "696", "417", "within"]

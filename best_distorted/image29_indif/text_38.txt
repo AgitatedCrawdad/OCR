@@ -1,0 +1,39 @@
+OSH
+
+‘Over and Park - 913-227-770
+10/11/2019 09:96 AM EXPIRES 01/09/2020
+
+CALRDRY CLEANING AND CLOSET
+003040059 ATR FRESHENE 1 $8.59
+(003060234 CASCADE T ($8.99
+STATIONERY @ OFFICE SUPPLIES
+
+(061051951 PAPER
+
+SUBTOTAL
+
+a
+T = KS TAK 9.10000 on $20.37
+TOTAL,
+74997 DISCOVER NETWORK CHARGE
+AID: 0000001523010
+Discover
+AUTH CODE: O11828
+
+RECH2-9264-1787-0169-0958-3 YCDH751~259-845
+
+Help make your Target Run bette
+Take 8 2 alnute survey about today'e trip
+
+informtarget.com
+aor Ds 7071 oeb4. 3960
+
+Paseword: 596 417
+
+CURNTENOS EN ESPAgOL
+
+Please take this eurvay within 7 dave
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 2, "dilate_kernel": 3, "dilate_iter": 2, "width": 500, "blocksize": 51, "constant": 10, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["and", "Park", "913-227-770", "EXPIRES", "CLEANING", "AND", "CLOSET", "003040059", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "PAPER", "SUBTOTAL", "9.10000", "74997", "DISCOVER", "NETWORK", "CHARGE", "0000001523010", "Discover", "Help", "make", "your", "Target", "Run", "Take", "survey", "about", "trip", "7071", "3960", "596", "417", "Please", "take", "this", "within"]
