@@ -1,0 +1,54 @@
+)
+TRADER JOE'S
+
+4201 West 119th Street
+
+ee, beamuod KS 66209
+Store #723 - (913) 327-1209
+
+OPEN B:iJ0AM TO 9:QUPM DAILY
+
+}
+
+  
+
+ORG CHAMOMILE TEA 2.49 T
+WHILE WHEAT PITA 1,49 5
+
+ICED WHOLE WHEAT BREAD L797
+SLICED SHESS 3.59 T
+SLUU TURKEY SMKD 2,99 T
+
+SUBTOTAL $12.75
+
+STATE TAK 1 $1.16
+
+TOTAL $13.91
+
+DESCOVER $13.91
+(g PURCHASE - APPRUVED
+
+Totals USO$ 13.91
+Ofscover Credit Entry Method; Chip
+CAO A: XX QU ON0KS997
+
+AUTH CODE: 00684R — SEQ #: 078501
+
+ARC: 00
+
+IC: $7 250/36 BboB IONE
+Hicket # 3192795U9415804779
+TranstD: 185192795094 158064
+
+1&3 5 K, Melissa
+10-06-2019 O1;10PM G723 07 4244 6123
+
+THANK YOU FOR SHUPPING AT TRADER JOE'S
+wa. trader }oes.com
+Tuside Trader Joe's (the pedeast)
+a7: Live from the Caplain's Meeting...
+Available Septenber 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 51, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "4201", "West", "119th", "Street", "66209", "Store", "327-1209", "OPEN", "DAILY", "CHAMOMILE", "TEA", "2.49", "WHILE", "WHEAT", "PITA", "1,49", "ICED", "WHOLE", "WHEAT", "BREAD", "SLICED", "3.59", "TURKEY", "2,99", "SUBTOTAL", "STATE", "TOTAL", "PURCHASE", "Totals", "13.91", "Credit", "Entry", "Chip", "SEQ", "078501", "185192795094", "158064", "Melissa", "10-06-2019", "4244", "6123", "THANK", "YOU", "FOR", "TRADER", "JOE'S", "trader", "Trader", "Joe's", "Live", "from", "the", "Meeting...", "Available", "16th"]

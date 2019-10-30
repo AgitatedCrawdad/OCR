@@ -1,0 +1,67 @@
+TRADER JOE'S
+
+4201 Hest 118th Street
+Leawood KS 66209
+Store 3 ~ (913) 327-7209
+
+OPEN 8:00AM TQ 9:00PM DAILY
+
+ 
+    
+   
+    
+    
+   
+      
+ 
+            
+             
+      
+     
+ 
+ 
+      
+ 
+    
+      
+
+iy CHAMOMILE TEA 2.49 T
+ILE WHEAT PITA 1.49 1
+LiCED ae WHEAT BREAD L791
+sl CED SHE 3.59 T
+Tob TURKEY SHO 2,99 T
+
+SUSI OTAL $12.75
+TOTE TAX 1 $1.16
+rOTAL $13.91
+1y COVER $13.91
+PURCHASE - APPROVED
+
+otal: USD$ 13.91
+
+vicover Credit Entry Hethod; Chip
+AO We SOOAXKIKKA S97
+
+Sept. OHA SED e: O7ES01
+ARU
+
+L “JOS 386081
+Ticket # 3192799094 15804779
+TanstD: 185192795094 158064
+
+ 
+
+ 
+
+Melts
+io Ne dora GI: 10PM 0723 07 seat “eis
+
+THANK YOU FOR SHUPPING AT TRADER JOE'S
+wi. trader joes .com
+Inside Trader .loe's (the podcast)
+a7: Live from the Caplain's Meeting...
+Available September 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 71, "constant": 19, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "4201", "118th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "CHAMOMILE", "TEA", "2.49", "WHEAT", "PITA", "1.49", "WHEAT", "BREAD", "CED", "SHE", "3.59", "TURKEY", "2,99", "SUSI", "TOTE", "TAX", "COVER", "PURCHASE", "APPROVED", "13.91", "Credit", "Entry", "Chip", "Sept.", "386081", "Ticket", "3192799094", "15804779", "185192795094", "158064", "Melts", "0723", "seat", "THANK", "YOU", "FOR", "TRADER", "JOE'S", "trader", "Inside", "Trader", "Live", "from", "the", "Meeting...", "Available", "September", "16th"]

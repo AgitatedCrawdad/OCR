@@ -1,0 +1,76 @@
+TRADER JOE'S
+
+4201 West 119th Street
+Leawood KS 66209
+Store 25 ~ (913) 327-7209
+OPEN 8:00AM TQ 9:00PM DAILY
+
+As CHAMOMILE TEA
+
+ 
+   
+       
+     
+ 
+
+wiPILE WHEAT PLA ia |
+UCED WAIL WHEAT BREAD 179 T
+CED SHE 3.99 T
+SUT URREY 90 2199 7
+
+ 
+     
+      
+
+SUS TOTAL 12.75
+Tate TAX 1 Shae
+FOTAL $13.91
+
+Bs LOVER $13.91
+PURCHASE - APPROVED
+
+     
+      
+
+otal: USD$ 13.91
+viavover Credit Entry Method: Chip
+A AE: ORO IOKKSSI
+
+SiH CODE: OO684R = SEQ e: 078501
+
+ARE: OO
+
+iu 9725036 B80B ODF
+
+Ticket # 3192799094 15804779
+
+Ti stD: 185192795094 158064
+
+ 
+ 
+
+    
+    
+     
+     
+    
+   
+  
+     
+
+1 TLMS Melissa
+10-06 - ors GI:10PH 0723 07 seat "6123
+
+    
+ 
+  
+
+TANK YUU FOR SHOPPING AT TRADER JOE"S:
+wi. trader joes .com
+_ fstde Trader .loe's (the pedcast)
+: Live from the Caplain's Meeting. .
+available September 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 171, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "4201", "West", "119th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "CHAMOMILE", "TEA", "WHEAT", "WAIL", "WHEAT", "BREAD", "179", "CED", "SHE", "3.99", "2199", "SUS", "TOTAL", "12.75", "Tate", "TAX", "Shae", "LOVER", "PURCHASE", "APPROVED", "13.91", "Credit", "Entry", "Chip", "SEQ", "078501", "9725036", "Ticket", "3192799094", "15804779", "185192795094", "158064", "Melissa", "10-06", "ors", "0723", "seat", "TANK", "FOR", "SHOPPING", "TRADER", "trader", "Trader", "Live", "from", "the", "Meeting.", "available", "September", "16th"]

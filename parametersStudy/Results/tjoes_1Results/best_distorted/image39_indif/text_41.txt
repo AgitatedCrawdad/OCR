@@ -1,0 +1,40 @@
+OIG
+
+Overland Park, ~ 919-327-7770
+10/11/2019 09:35 AM EXPIRES 01/09/2020
+
+MOATIROUANDN UU UGE 1} EEL
+LARRY CLEANING AND CLOSET
+
+(903040069 ATR FRESHENE 1 $8.39
+1003060234 CASCADE T $5.89
+STATIONERY & OFFICE SUPPLIES
+081051951 PAPER T $8.79
+sUBloTaL «= $20.97
+T = KS TAK 9.10000 en $20.37 $1.85
+OTA, = $22.22
+
+44997 DISCOVER NETWORK CHARGE $22.22
+‘AO: Aod00001523010
+
+Biscovar
+
+AUTH CODE: 01182
+
+RECK2-928461757-M162-0058-3 VODKTS1~259-845
+
+Help make your Target Run batter.
+Teke 2 2 nilnure survey about todey’s trip
+
+informtargat con
+Weer 1D: 7071 6824 3983
+
+Paseword: 696 417
+
+CUpHTENOS EN ESPArOL
+
+Ploase take this survey within 7 davis
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 500, "blocksize": 151, "constant": 10, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["Overland", "919-327-7770", "EXPIRES", "EEL", "LARRY", "CLEANING", "AND", "CLOSET", "1003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "081051951", "PAPER", "9.10000", "44997", "DISCOVER", "NETWORK", "CHARGE", "01182", "Help", "make", "your", "Target", "Run", "batter.", "survey", "about", "trip", "con", "Weer", "7071", "6824", "3983", "696", "417", "take", "this", "survey", "within"]

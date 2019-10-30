@@ -1,0 +1,47 @@
+"TRADER JOE'S
+
+4201 West 3th street
+Leawood 209
+Store #723 - ay" or 7209
+
+OPEN 8:00AM TO 9:00PM DAILY
+
+GOURD REE PUP CIDER 6.9
+BBQ CUT $i . 10.9
+PITA Hee ACH ‘SEA SALT 1.9
+BEVERAGE ALMOND UNSWEETENED OR 2.6!
+POTATO SWEET EACH 0.7
+GNTONS RED JUMBO EACH 0.9
+BANANA EACH 0.5
+SEA 0 0, 19/EA
+
+SUBTOTAL sar.
+¢
+
+STATE TAX 1 2.46,
+aed $29.47
+OTSCO $29.47
+PR LASE - APPROVED
+
+Total: USD$ 29.47
+Discover Credit Entry Hethad; Chip
+CARD #: YAOKAKONAIST
+
+aN ane OIOR = SEQ #: 070825
+
+if ‘79934706127 AZBA
+Ticket # 419284992337332310
+Transl; 18619284392337926
+
+TENS 9 8, Aaron
+10-11-2019 09;554M 0723 07 5166 6065
+
+THANK YQU FOR suore iN AT TRADER JOE'S
+ww trader Joes .com
+Ins {de Tralee dog's (the we pedaast)
+Episode 18; Our Spice rade
+Available Qutober 14th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 51, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["JOE'S", "4201", "West", "street", "209", "Store", "7209", "OPEN", "DAILY", "GOURD", "REE", "PUP", "CIDER", "6.9", "BBQ", "CUT", "10.9", "PITA", "SALT", "1.9", "BEVERAGE", "ALMOND", "UNSWEETENED", "POTATO", "SWEET", "EACH", "0.7", "RED", "JUMBO", "EACH", "0.9", "BANANA", "EACH", "0.5", "SEA", "SUBTOTAL", "STATE", "TAX", "LASE", "APPROVED", "29.47", "Discover", "Credit", "Entry", "Chip", "CARD", "SEQ", "070825", "Ticket", "419284992337332310", "18619284392337926", "TENS", "Aaron", "10-11-2019", "0723", "5166", "6065", "THANK", "FOR", "TRADER", "JOE'S", "trader", "Ins", "dog's", "Episode", "Our", "Spice", "Available", "14th"]

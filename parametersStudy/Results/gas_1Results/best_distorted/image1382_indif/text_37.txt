@@ -1,0 +1,45 @@
+4280 W 19th Beyeet,
+Leawnad KS 66209
+
+Waterway Gas & Wash
+4200 W 119th Street
+Leawood, KS
+
+66289
+
+1671772819 960803755
+@7:11:07 PM
+
+PUMP@ &
+BLUE 14.2976
+PRICE/GAL 62.399
+
+FUEL TOTAL % 34.306
+DEBIT “' @ 34.36
+
+DEBIT
+Payment from “ge
+Pranary account :
+eres
+
+Entry Method: Swiped
+
+auth #2 17211
+
+Resp Code: 000
+
+Stan: 0144996729
+
+Invoice #: 306583
+
+BP SITE Ib: 6972631
+
+Ey AN ‘
+
+REWARD
+RECS
+Stan! 0144806729
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 650, "blocksize": 151, "constant": 3, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["4280", "19th", "66209", "Waterway", "Gas", "Wash", "4200", "119th", "Street", "66289", "1671772819", "960803755", "BLUE", "14.2976", "62.399", "FUEL", "TOTAL", "34.306", "DEBIT", "34.36", "DEBIT", "Payment", "from", "account", "Entry", "Swiped", "17211", "Resp", "000", "0144996729", "Invoice", "306583", "SITE", "6972631", "REWARD", "RECS", "0144806729"]

@@ -1,0 +1,50 @@
+TRADER JOE'S
+
+"4201 West 119th Street
+Leavood KS” 66209
+Store #723 - (913) 327-7208
+
+OPEN 8:00AM TO 9:00PM DAILY
+
+ORG CHAMOMILE TEA
+
+WHILE WHEAT PITA
+
+ICED WHULE WHEAT BREAD
+-ED SWISS
+
+SECU TURKEY SHKD
+
+SUBTOTAL
+
+STATE TAX 1
+TOTAL
+
+UESLOVER
+
+PURCHASE - APPROVED
+
+Total: USD$ 13.91
+Glscover Credit Entry Method; Chip
+CARDS XO OKK49 97
+
+AUTH CODE: OO684R © SEQ #: 078501
+
+ARC: 00.
+
+iC: 9725C 7368868 100F
+Hicket © 3192795u9415804779
+Trans{D: 185192795094 158064
+
+(TEMS 5 K, Melissa
+10-G6-2019 01:10PM 0723 07 4444 6123
+
+THANK YOU FOR SHUPPING AT TRADER JOE'S
+wa. trader joes .com
+Inside Trader Joe's (the podcast)
+wis Live from the Captain's Meeting...
+available Septenber 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 71, "constant": 15, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "West", "119th", "Street", "66209", "Store", "327-7208", "OPEN", "DAILY", "CHAMOMILE", "TEA", "WHILE", "WHEAT", "PITA", "ICED", "WHEAT", "BREAD", "SWISS", "TURKEY", "SUBTOTAL", "STATE", "TAX", "TOTAL", "PURCHASE", "APPROVED", "13.91", "Credit", "Entry", "Chip", "CARDS", "SEQ", "078501", "00.", "7368868", "185192795094", "158064", "Melissa", "0723", "4444", "6123", "THANK", "YOU", "FOR", "TRADER", "JOE'S", "trader", "Inside", "Trader", "Joe's", "Live", "from", "the", "Captain's", "Meeting...", "available", "16th"]

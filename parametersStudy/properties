@@ -1,0 +1,24 @@
+Keep track of sample parameters and the actual parameters to use in the real experiment.
+
+Test ---
+   kernel_list = range(3,4,2)
+    iterations = range(1,3,1)
+    width_list = range(400, 600, 100)
+    blocksize_list = range(51, 202, 100)
+    constant_list = range(1, 18, 9)
+    thresh_type = ['mean']
+
+
+
+
+
+
+
+
+Real ----
+    kernel_list = range(3,8,2)
+    iterations = range(1,6,1)
+    width_list = range(250, 800, 50)
+    blocksize_list = range(51, 202, 20)
+    constant_list = range(1, 20, 2)
+    thresh_type = ['gaussian', 'mean']

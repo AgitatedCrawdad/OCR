@@ -1,0 +1,48 @@
+TRADER JOE’S
+
+an West 119th Street
+eavood KS 66209
+Store 3 ~ (919) 327-7209
+
+OPEN 8:00AM TQ 9:00PM DAILY
+
+Bohs CHAMOMILE TEA 2.497
+ALE WHEAT PLTA 1.49 7
+1 CED ae WHEAT BREAD LT
+“lL CED SHES: 3.99 T
+all tie SMD 2,99 T
+
+UO TOTAL $12.75
+
++ LOVE!
+ag CHASE - APPROVED
+alalt USD$ 13.91
+atvaver Cred lt Entry Hethod: Chip
+SLOW OOK?
+a Ht oot Q0884R = SEQ e: 078501
+
+& 7050.35 8608100
+Ticket # 3192795094 15804779
+TiansfD: 185192795094 158064
+
+Melissa
+in te ors GI:10PH 0723 07 aa "6123
+
+THANK YUU FOR SHOPPING AT TRADER JOE"S:
+wi. trader joes com
+Inside Trader .loe’s (the pedcest)
+#7; Live from the Captain's Meeting...
+available September 16th
+
+ 
+  
+
+we
+ie rae
+4a, aie !
+ty hae
+obra
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 91, "constant": 19, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE\u2019S", "West", "119th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "CHAMOMILE", "TEA", "2.497", "ALE", "WHEAT", "1.49", "CED", "WHEAT", "BREAD", "CED", "3.99", "all", "tie", "2,99", "TOTAL", "CHASE", "APPROVED", "13.91", "Entry", "Chip", "SLOW", "SEQ", "078501", "7050.35", "8608100", "Ticket", "3192795094", "15804779", "185192795094", "158064", "Melissa", "ors", "0723", "THANK", "FOR", "SHOPPING", "TRADER", "trader", "com", "Inside", "Trader", "Live", "from", "the", "Captain's", "Meeting...", "available", "September", "16th"]

@@ -1,0 +1,65 @@
+ia
+‘ "TRADER JOE’S
+420) West 119th Street
+Leawood KS 66209
+Store #723 - (913) 327-7209
+OPEN 8:00AM TO 9:00PM DAILY
+
+  
+
+     
+   
+        
+      
+      
+     
+ 
+  
+
+SQUED TREE PUMPKIN CIDER 8.99 T
+280 CUT SALMON 10.99 T
+“Te CHIPS WITH SEA SALT 1:99 T
+SEVERAGE ALMOND UNSWEETENED OR 2.69 T
+POTATO SHEET EACH 0.79 T
+ONTONS RED JUMBO EACH 0.99 T
+SANKNA EACH 0.57 T
+SEA 8 0.19/64
+
+AUBTOTAL m1, al
+TATE TAX 1
+
+rOTAL 5. 3
+DISCOVER 929.47
+
+a ASE - APPROVED
+
+als USD$ 29.47
+Nn rover € Credit Entry Method; Chip
+CARD Bt UR IORKAIIT
+aan pao OUtOR == SEQ #: 070325
+
+if *aa47B61274286
+(oket_ # 419284392337332310
+lranaID; 186192843923972326
+
+ 
+
+   
+ 
+        
+
+ 
+  
+
+ITEMS 9 §, Aaron
+10-11-2019 09:55AM 0723 07 S166 Bdes
+
+THANK YOU FOR SHOPPING AT TRADER JOE'S
+wat. trader Joes .com
+Ins {de Trader does (the we podcast)
+Episode 16; Our Spice rade
+Available October 14th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 51, "constant": 15, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["JOE\u2019S", "West", "119th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "TREE", "PUMPKIN", "CIDER", "8.99", "280", "CUT", "SALMON", "10.99", "CHIPS", "WITH", "SEA", "SALT", "ALMOND", "UNSWEETENED", "2.69", "POTATO", "SHEET", "EACH", "0.79", "RED", "JUMBO", "EACH", "0.99", "EACH", "0.57", "SEA", "TATE", "TAX", "DISCOVER", "929.47", "ASE", "APPROVED", "29.47", "rover", "Credit", "Entry", "Chip", "CARD", "SEQ", "070325", "419284392337332310", "186192843923972326", "ITEMS", "Aaron", "10-11-2019", "0723", "THANK", "YOU", "FOR", "SHOPPING", "TRADER", "JOE'S", "trader", "Ins", "Trader", "does", "Episode", "Our", "Spice", "Available", "October", "14th"]

@@ -1,0 +1,53 @@
+4201 West 119th Street
+Leawood
+
+Store #723 ~ (913) 327-7209
+
+OPEN B:00AN TO 9:00PH DAILY
+GOURD TREE PUMPKIN CIDER 8,99 T
+284 CUT SALMON . 10,997
+PITA CHIPS WITH SEA SALT 4.99 T
+WEVERAGE ALMOND UNSHEETENED OR 2.69 F
+VOTATO SWEET EACH 0.79 T
+GHIONS REQ JUMBO EACH 8 9 }
+
+BAHAHA EACH
+qeA «0. 19/EA
+
+SUBTOTAL, $27.01
+STATE TAX 7 $2.46
+TOTAL. 323.47
+DISCOVER $29.47
+
+PURCHASE - APPROVED
+
+Totals
+
+Discover Credit Entry Hethad:
+CARD By KXXXXXKAKKHRAIS?
+
+AUTH CODE; O1T10R SEQ #: 070325,
+
+ARG: 00
+
+TC; 763924786 \27A2BA
+Sicket 449204592337 332310
+TransIDs 486192843923373926
+
+S05 29.47
+Chip
+
+TTENS 2 §, Aaron
+10-11-2019 09:55AM 0723 07 5166 8065
+
+THANK YOU FOR SHOPPLHG At TRADER JOE'S
+whi. trader joes COM
+Insidu Trader Joe's (the podcast)
+Episode 18; Our Spice [rade
+Available October 14th
+
+i
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 650, "blocksize": 51, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["4201", "West", "119th", "Street", "Store", "327-7209", "OPEN", "DAILY", "GOURD", "TREE", "PUMPKIN", "CIDER", "8,99", "284", "CUT", "SALMON", "10,997", "PITA", "CHIPS", "WITH", "SEA", "SALT", "4.99", "ALMOND", "2.69", "SWEET", "EACH", "0.79", "JUMBO", "EACH", "EACH", "STATE", "TAX", "TOTAL.", "323.47", "DISCOVER", "PURCHASE", "APPROVED", "Totals", "Discover", "Credit", "Entry", "CARD", "SEQ", "763924786", "449204592337", "332310", "486192843923373926", "29.47", "Chip", "Aaron", "10-11-2019", "0723", "5166", "8065", "THANK", "YOU", "FOR", "TRADER", "JOE'S", "trader", "COM", "Trader", "Joe's", "Episode", "Our", "Spice", "Available", "October", "14th"]

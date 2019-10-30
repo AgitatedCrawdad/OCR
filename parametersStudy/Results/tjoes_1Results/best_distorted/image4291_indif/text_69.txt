@@ -1,0 +1,51 @@
+SRADER JGE’S
+
+"4201 Hest 119th Street
+Leawood KS 66;
+
+Store #723 - (913) 327-7209
+
+OPEN 8:00AM TO 9:00PM DAILY
+
+GOURD TREE PUMPALN CIDER 8.99 T
+880 CUT SALMON 10.95 T
+PING CHIPS HITH SEA SALT = * = 1.99 T
+BEVERAGE ALMOND UNSWEETENED OR 2.69 T
+POTATO SHEET EACH 0:79 T
+ONTGINS REO JUMBO EACH 0.89 T
+BANANA EACH 0.57 T
+EA 00, 19/EA .
+SUBTOTAL $27.01
+STATE TAX 1 92.46
+TOTAL $29.47
+523.47
+
+DISCOVER
+PURCHASE - APPROVED
+i USD$ 29.47
+
+Tolal:
+
+Olscovar Credit Entry Method: Chip
+CARD ir XMXXXXAKXKNKGS97
+
+AUIH CODE: O1N10R == SEQ #: 070325
+
+ARC: 00
+
+TE: 7639347BE127A2BA
+Heket # 419284392337392310
+TransIO: 166192843923973326
+
+TENS 9 8, Aaron
+10-11-2019 09558 0723 OF S166 e065
+
+THANK YOU FOR SHOPPING AT TRADER UOE'S
+wan. trader {ces .cora
+Jnalde Trader Joe’e (the podcast)
+Episode 18; Our Spice Trade
+Available October l4th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 51, "constant": 11, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["119th", "Street", "Store", "327-7209", "OPEN", "DAILY", "GOURD", "TREE", "CIDER", "8.99", "880", "CUT", "SALMON", "10.95", "PING", "CHIPS", "SEA", "SALT", "1.99", "BEVERAGE", "ALMOND", "UNSWEETENED", "2.69", "POTATO", "SHEET", "EACH", "JUMBO", "EACH", "0.89", "BANANA", "EACH", "0.57", "SUBTOTAL", "STATE", "TAX", "92.46", "TOTAL", "523.47", "DISCOVER", "PURCHASE", "APPROVED", "29.47", "Credit", "Entry", "Chip", "CARD", "SEQ", "070325", "419284392337392310", "166192843923973326", "TENS", "Aaron", "10-11-2019", "09558", "0723", "THANK", "YOU", "FOR", "SHOPPING", "TRADER", "wan.", "trader", "Trader", "Episode", "Our", "Spice", "Trade", "Available", "October"]

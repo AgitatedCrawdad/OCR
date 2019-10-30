@@ -1,0 +1,52 @@
+a
+TRADER JOE’S
+4201 West 119th Street
+Leawood iS 66200
+Store #723 ~ (913) 327-7209
+OPEN 8:00AM TO 9:00PH DAILY
+UR CHAMOMILE TEA
+PL
+
+fg LE WHEAT
+
+A
+Pe ICED WHOLE wt
+SLLCED SWISS EAT BREAD
+
+fie 21-0 TURKEY SHKD.
+
+sustoTaL
+STATE TAK 1
+TOTAL
+
+uso
+
+Entry Hethod:
+TARE A XXX 0000K4997
+SUTH CODE: O08B4R SEQ #: 078501
+
+ARC: 00
+IC: 9725¢73° 8068 OF,
+Ticket # 319279509415804773,
+
+fag IranslO: 185192795094 158064
+
+LIENS § K, Kelissa
+10-06-2019 01:10PM 0723 07 4644 6123
+
+THANK YOM FOR SHOPPING AT TRADER JOE'S
+win. trader joes com
+Ineide Trader Joe's (the podcast)
+#7: Live from the Captain's Heat ing... | Pitt to hy
+Available Septeaber 16th ‘ bh ray
+AGT il
+
+’ ile
+Lil M
+
+‘
+"
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 650, "blocksize": 111, "constant": 9, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE\u2019S", "4201", "West", "119th", "Street", "66200", "Store", "327-7209", "OPEN", "DAILY", "CHAMOMILE", "TEA", "WHEAT", "ICED", "WHOLE", "SWISS", "EAT", "BREAD", "fie", "21-0", "TURKEY", "STATE", "TOTAL", "Entry", "TARE", "SEQ", "078501", "8068", "Ticket", "fag", "185192795094", "158064", "LIENS", "10-06-2019", "0723", "4644", "6123", "THANK", "FOR", "SHOPPING", "TRADER", "JOE'S", "win.", "trader", "com", "Trader", "Joe's", "Live", "from", "the", "Captain's", "Heat", "Pitt", "Available", "16th", "ray", "Lil"]

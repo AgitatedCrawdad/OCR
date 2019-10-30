@@ -1,0 +1,89 @@
+"TRADER JOE’S
+
+4201 West 119th Street
+Leawood KS 66209
+
+Store #723 - (913) 327-7209
+
+® OPEN 8:00AM TO 9:00PM DAILY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SQURD TREE PUMPKIN CIDER 6.99 T
+880. CUT SALMON 10,99 1
+PETA CHIPS WITH SEA SALT & 1,99 T
+BEVERAGE ALMOND UNSWEETENED OR 2.69 T
+vOTATO SWEET EACH 0.79 T
+SNTONS REO JUMBO EACH - 0.99 T
+BANANA EACH 0.57 T
+SEA «@ 0.19/68 .
+SUBTOTAL . 3 927.0)
+STATE. TAX 4 +t $2.46
+TOTAL € 823.47
+‘OTSCOVER . 629.47
+PURCHASE - APPROVED
+USD$ 29.47
+
+ 
+
+fotal:
+
+Discover Credit — Entry Method: Chip
+CARD #2 XOKXXXXMXXKX4997
+
+SUTH CODE: O1110R © SEQ #: 070325
+
+ARC: 00
+ride Pa antnssese7 992310
+(raneiD: 186192043923373326
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ITEMS 9 8, Aaron
+10-11-2019 09:55AM 0723 07 5166 8065
+
+THANK YOU FOR SHOPPING AT TRADER JOE'S
+www. trader foes.con
+The jde Tracey sge's (ihe podcast)
+ode 18; Our Spice
+° fvat leble actober 14th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 51, "constant": 7, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["JOE\u2019S", "4201", "West", "119th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "TREE", "PUMPKIN", "CIDER", "6.99", "880.", "CUT", "SALMON", "10,99", "PETA", "CHIPS", "WITH", "SEA", "SALT", "1,99", "BEVERAGE", "ALMOND", "UNSWEETENED", "2.69", "SWEET", "EACH", "0.79", "JUMBO", "EACH", "0.99", "BANANA", "EACH", "0.57", "SEA", "SUBTOTAL", "STATE.", "TAX", "TOTAL", "823.47", "629.47", "PURCHASE", "APPROVED", "29.47", "Discover", "Credit", "Entry", "Chip", "CARD", "SEQ", "070325", "ride", "992310", "186192043923373326", "ITEMS", "Aaron", "10-11-2019", "0723", "5166", "8065", "THANK", "YOU", "FOR", "SHOPPING", "TRADER", "JOE'S", "trader", "The", "Tracey", "ode", "Our", "Spice", "14th"]

@@ -1,0 +1,55 @@
+“4201 Hest 119th Street
+Leawood RS
+
+Store 9723 ~ (913) 327-7208
+
+OPEN 8:00AM Ta 9:00PH OALLY
+
+  
+
+Ski CHAMOMILE TEA 2.497
+ILE WHEAT PITA 1.49 T
+TCEO WHOLE HEAT BREAD LIT
+
+SLICED SWISS 3.99
+
+SLCD TURKEY SEXO 2.99 T
+
+SUBTOTAL 912.75
+
+SIMTE TAX 1 $1.16
+
+TOTAL . aoe 1.97
+
+WESLOYER #14.9
+
+PURCHASE - APPROVED
+
+US0S 13.91
+
+Total:
+Olscover Credit Entry Hethod: fthip
+CARD fs XXOOXHKKKX4997
+
+4uTH CODE: (06848 SEQ #: 076501
+
+anc: OO
+1G: 972507 SF BBS 100F
+
+(cket # 319279508015004773
+eansI0; 185192795034158064
+
+ 
+
+ITEMS 5 K, Melissa
+10-05-2019 O1:10PH 723 OF 4444 6123
+
+THANK ¥OU FOR SHOPPING AT TRADER JOE'S
+nid. trader }oes con
+Inside Jrader Joe's (the podcast)
+72 Live frow ihe Captain's Meeting...
+Available Septecber 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 111, "constant": 7, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["119th", "Street", "Store", "9723", "327-7208", "OPEN", "Ski", "CHAMOMILE", "TEA", "2.497", "WHEAT", "PITA", "1.49", "WHOLE", "HEAT", "BREAD", "LIT", "SLICED", "SWISS", "3.99", "TURKEY", "2.99", "SUBTOTAL", "912.75", "TAX", "TOTAL", "1.97", "PURCHASE", "APPROVED", "13.91", "Credit", "Entry", "CARD", "SEQ", "076501", "972507", "BBS", "319279508015004773", "185192795034158064", "ITEMS", "Melissa", "10-05-2019", "723", "4444", "6123", "THANK", "FOR", "SHOPPING", "TRADER", "JOE'S", "trader", "con", "Inside", "Joe's", "Live", "Captain's", "Meeting...", "Available", "16th"]

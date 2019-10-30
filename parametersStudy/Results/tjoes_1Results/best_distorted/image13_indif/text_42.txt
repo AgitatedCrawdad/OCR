@@ -1,0 +1,37 @@
+Overland Park - 913-297-7770
+10/11/2019 08:96 AM EXPIRES 01709/2020
+
+MUTA EL TTT LUT
+
+LAUNORY CLEANING AND CLOSET
+003000059 ATF: FRESHENE I $8.59
+‘03060234 CASCADE T $8.99
+STATIONERY & OFFICE SUPPLIES
+
+(081051951 PAPER T $5.79
+
+SUBTOTAL 620.97
+T = KS TAK 9.10000 on $20.37
+TOTAL
+4997 DISCOVER NETWORK CHARGE
+ATO: 0000001523010
+Discover
+AUTH CODE: OL182R
+
+1757-0163-0958-3 VCDK751-259-845
+
+Helo fake your Target Run better
+Teke a2 mirute survey about today's trip
+
+inforatarget.con
+User 10: 7071 S824 9989
+
+Password: 696 417
+
+CUeNTENOS EN ESPAROL
+
+Please teke this survey within 7 dave
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 2, "width": 500, "blocksize": 51, "constant": 10, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["Overland", "Park", "913-297-7770", "EXPIRES", "CLEANING", "AND", "CLOSET", "003000059", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "PAPER", "SUBTOTAL", "620.97", "9.10000", "TOTAL", "4997", "DISCOVER", "NETWORK", "CHARGE", "0000001523010", "Discover", "1757-0163-0958-3", "fake", "your", "Target", "Run", "better", "survey", "about", "today's", "trip", "User", "7071", "9989", "696", "417", "Please", "this", "survey", "within"]

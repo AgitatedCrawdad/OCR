@@ -1,0 +1,66 @@
+Onis
+
+Overland Park ~ 913-327-7770
+10/11/2019 09:96 AM EXPIRES 01/09/2020
+
+COT UO
+
+LAUNDRY CLEANING AND CLOSET
+003040069 AIR. FRESHENE T $8.59
+003060234 CASCADE T $8.99
+STATIONERY @ OFFICE SUPPLIES
+081051951 PAPER $5.79
+
+  
+   
+   
+     
+    
+       
+     
+
+         
+ 
+
+SUBTOTAL $20.97
+T = KS TAX 9.10000 on $20.97 $1.85
+TOTAL, $22.22 4
+
+   
+
+74997 DISCOVER NETWORK CHARGE $2222
+AID: 0000001529010
+
+Discover
+AUTH CODE: © O1182R
+
+     
+ 
+ 
+         
+
+ 
+
+163-0358-3 VCDN781-259-845
+
+Ip make your Target Run better.
+Take @ 2 minute survey about today's trip
+
+  
+ 
+
+   
+   
+ 
+
+Inforntarget con
+User 10: 7071 984 3980
+Pasenord: 696 417
+
+CUpNTENOS EN ESPAROL
+
+Please take this survey within 7 days
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 550, "blocksize": 191, "constant": 17, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["Overland", "Park", "913-327-7770", "EXPIRES", "COT", "LAUNDRY", "CLEANING", "AND", "CLOSET", "003040069", "AIR.", "003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "081051951", "PAPER", "SUBTOTAL", "TAX", "9.10000", "74997", "DISCOVER", "NETWORK", "CHARGE", "0000001529010", "Discover", "163-0358-3", "make", "your", "Target", "Run", "better.", "Take", "minute", "survey", "about", "today's", "trip", "con", "User", "7071", "984", "3980", "696", "417", "Please", "take", "this", "survey", "within", "days"]

@@ -1,0 +1,54 @@
+4206 W 118th Street
+Leawood KS 68209
+
+Waterway Gas & Wash
+4208 YW 113th Street
+Leawood, KS
+
+66209
+
+e742 288 960803755
+@O7; 11:87
+
+PUMPS 6;
+
+BLUE 4 14.2976
+PRICE/GAL $2.399
+FUEL TOTAL & 34.34
+
+DEBIT “ft @ 234.36
+Z
+
+ 
+
+EAST
+
+Payneot froa
+
+Peigary Account
+
+sept n883 t
+Entry Nethod:Suiped .
+Fath 171210
+
+Resp Code: BE
+
+Stan: 8144688729 :
+lavoiee #3 386592 "E
+
+ 
+
+BP SITE 8D: 6872691
+
+:
+7
+
+REWARD +
+
+secret 608
+
+Stans 2144896729
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 71, "constant": 5, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["4206", "118th", "Street", "68209", "Waterway", "Gas", "Wash", "4208", "113th", "Street", "66209", "288", "960803755", "PUMPS", "BLUE", "14.2976", "FUEL", "TOTAL", "34.34", "DEBIT", "234.36", "EAST", "Account", "sept", "Entry", "171210", "Resp", "8144688729", "386592", "SITE", "6872691", "REWARD", "secret", "608", "Stans", "2144896729"]

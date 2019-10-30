@@ -1,0 +1,72 @@
+TRADER JOE'S
+
+4201 West 119th Street
+Leawood KS 66209
+Store 3 ~ (913) 327- i209
+
+OPEN 8:00AM TQ 9:00PM DAILY
+
+uw CHAMOMILE TEA 2.
+WHILE WHEAT PLTA 1
+ICED oat WHEAT BREAD 1.79
+al iCED Swi! 3.59
+2.99
+
+ 
+ 
+    
+   
+        
+   
+    
+
+Stuy TURKEY SHAD
+SUS TOTAL $12.75
+
+ 
+   
+   
+    
+
+VOTE TAX 1 $1.16
+VOTAL $13.91
+11) sLOVER: $13.91
+PUSCHASE - APPROVED
+
+jotals USD$ 13.91
+
+     
+       
+
+discover Credit Entry Kethod; Chip
+CALE AES KKK ARKAIT
+soe Q0684R = SEQ #: 078501
+
+et TOS, ROB 10DF
+Visket # 3192795u94 15804773
+Trans{D: 185192795094 158064
+
+              
+ 
+ 
+    
+ 
+ 
+  
+
+Melissa
+io" Ne doa GI:10PH 0723 07 seat "6123
+
+ 
+  
+  
+
+THANK YOU FOR SHUPPING AT TRADER JOE'S
+wa. trader joes .com
+Inside Trader .loe’s (the pccast)
+#7: Live from the Caplain’s Meeting. .
+Available Septenber 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 131, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "4201", "West", "119th", "Street", "66209", "Store", "OPEN", "DAILY", "CHAMOMILE", "TEA", "WHILE", "WHEAT", "ICED", "oat", "WHEAT", "BREAD", "1.79", "3.59", "2.99", "TURKEY", "SHAD", "SUS", "TOTAL", "VOTE", "TAX", "APPROVED", "13.91", "discover", "Credit", "Entry", "Chip", "CALE", "KKK", "SEQ", "078501", "ROB", "15804773", "185192795094", "158064", "Melissa", "0723", "seat", "THANK", "YOU", "FOR", "TRADER", "JOE'S", "trader", "Inside", "Trader", "Live", "from", "the", "Meeting.", "Available", "16th"]
