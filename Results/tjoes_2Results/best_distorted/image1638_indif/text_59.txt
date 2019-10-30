@@ -1,0 +1,77 @@
+CL “if | te
+dali iia sf tek
+
+    
+     
+   
+ 
+ 
+      
+ 
+       
+ 
+      
+          
+            
+ 
+     
+ 
+ 
+      
+ 
+ 
+        
+
+  
+
+“TRADER JOE'S
+
+4201 West 119th Street
+Leawood KS 66209
+Store #723 - (913) 327-7209
+
+OPEN 8:00AM TQ 9:00PM DAILY
+
+UR] CHAMOMILE TEA 2
+WILE WHEAT PITA 1
+ICED oe WHEAT BREAD 1.79
+SLICED SHE 3.59
+2.99
+
+  
+
+  
+
+Lp Toni ‘SHKD
+
+SUBTOTAL $12.75
+STATE TAK 1 $1.16
+TOTAL $13.91
+UiLOVER $13.91
+PURCHASE - APPRUVED
+
+Total: USD$ 13.91
+
+Uiscaver Credit Entry xethod; chip
+SAME A: OOK H2K4997
+
+AUTH ce: 006842 = SEU #: 076501
+
+ARC
+
+IC: 97250 /3FBbOB1ODF
+Hoket # 3192795094 15804779
+TranstD: 185192795094 158064
+
+(TeHS 5 K, Melissa
+10-06-2019 G1:10PM 0723 07 4244 6123
+
+THANK YOU FOR SHUPPING AT TRADER JOE'S
+wa. trader }aes.com
+Tnstde Trader .loe’s (the pedcast)
+a7: Live from the Caplain's Meeting...
+Available Septenber 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 71, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["JOE'S", "4201", "West", "119th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "CHAMOMILE", "TEA", "WILE", "WHEAT", "PITA", "ICED", "WHEAT", "BREAD", "1.79", "SLICED", "SHE", "3.59", "2.99", "Toni", "SUBTOTAL", "STATE", "TOTAL", "PURCHASE", "13.91", "Credit", "Entry", "chip", "SAME", "006842", "076501", "ARC", "97250", "3192795094", "15804779", "185192795094", "158064", "Melissa", "10-06-2019", "0723", "4244", "6123", "THANK", "YOU", "FOR", "TRADER", "JOE'S", "trader", "Trader", "Live", "from", "the", "Meeting...", "Available", "16th"]

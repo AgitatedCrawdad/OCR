@@ -1,0 +1,61 @@
+Overland Park ~ 913-327-7770
+10/11/2019 09:96 AM EXPIRES 01/09/2020
+
+HEEOCIENTE YATE VO UBE 1 TBAT
+
+LAUNDRY CLEANING AND CLOSET
+
+003040069 AIR FRESHENE T $8.59
+
+003060234 CASCADE T $8.99
+
+STATIONERY @ OFFICE SUPPLIES
+
+081051951 PAPER $5.79
+SUBTOTAL $20.97
+
+T = KS TAX 9.10000 on $20.97 $1.85
+TOTAL, $22.22
+
+74997 DISCOVER NETWORK CHARGE $22 29
+AID: 4000001528010
+
+Discover
+AUTH CODE: © O1182R
+
+   
+
+    
+       
+     
+   
+
+  
+    
+
+   
+
+163-0358-3 VCDN751-259-845
+
+ 
+     
+     
+   
+      
+
+ 
+
+Help make your Target Run better.
+Take a 2 minute survey about today's trip
+
+Inforntarget con
+User TD: 7071 9834 3080
+Paseword: 696 417
+
+CUpNTENOS EN ESPAROL
+
+Please take this survey within 7 days
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 550, "blocksize": 191, "constant": 15, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["Overland", "Park", "913-327-7770", "EXPIRES", "LAUNDRY", "CLEANING", "AND", "CLOSET", "003040069", "AIR", "003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "081051951", "PAPER", "SUBTOTAL", "TAX", "9.10000", "74997", "DISCOVER", "NETWORK", "CHARGE", "4000001528010", "Discover", "163-0358-3", "Help", "make", "your", "Target", "Run", "better.", "Take", "minute", "survey", "about", "today's", "trip", "con", "User", "7071", "9834", "3080", "696", "417", "Please", "take", "this", "survey", "within", "days"]

@@ -1,0 +1,26 @@
+erode_kernel,erode_iter,dilate_kernel,dilate_iter,width,blocksize,constant,thresh_type,scanned,word count
+3,1,3,1,700,51,19,gaussian,False,69
+3,1,3,1,700,71,17,gaussian,False,69
+3,1,3,1,750,51,19,gaussian,False,69
+3,1,3,1,750,71,13,gaussian,False,69
+3,1,3,1,750,71,15,gaussian,False,69
+3,1,3,1,700,51,11,gaussian,False,69
+3,1,3,1,650,71,19,gaussian,False,70
+3,1,3,1,750,51,9,gaussian,False,70
+3,1,3,1,750,51,9,mean,False,70
+3,1,3,1,750,71,5,gaussian,False,70
+3,1,3,1,750,71,9,mean,False,70
+3,1,3,1,750,71,11,gaussian,False,70
+3,1,3,1,750,91,13,gaussian,False,70
+3,1,3,1,650,51,19,gaussian,False,70
+3,1,3,1,750,51,15,gaussian,False,70
+3,1,3,1,700,51,15,mean,False,71
+3,1,3,1,750,151,7,gaussian,False,71
+3,1,3,1,650,51,11,gaussian,False,71
+3,1,3,1,650,51,17,gaussian,False,71
+3,1,3,1,700,51,9,gaussian,False,72
+3,1,3,1,700,51,17,gaussian,False,72
+3,1,3,1,650,51,15,gaussian,False,72
+3,1,3,1,750,111,7,gaussian,False,73
+3,1,3,1,750,51,9,gaussian,False,74
+3,1,3,1,750,51,7,mean,False,76

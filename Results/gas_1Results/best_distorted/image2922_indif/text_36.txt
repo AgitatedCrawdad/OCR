@@ -1,0 +1,45 @@
+9200 Ww L19th ten
+eawoed 4 66269
+
+Waterway Gas & Wash
+4200 W 119th Street
+Leawood, KS.
+
+66209
+
+18/17/2019 960803755
+7:41:07 PM
+
+PUMPH 6
+BLUE 4 14,2976
+PRICE/GAL * $2,399
+
+FUEL TOTAL & 34.30
+
+DEBIT -*' # 34.30
+e
+
+‘ : .
+
+vent x
+Payment frou : t
+Primacy Account i P
+seanenoonns688e
+Entry Wethed:Suiped "4 4 +
+auth a 11211 €
+esp Code: 000 :
+Stan: 144886729
+
+Invoice W: 30658
+
+fp SITE Bs 6872531
+
+i
+
+REWARD
+scene 889
+Stan: 6144886729
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 2, "width": 600, "blocksize": 91, "constant": 3, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["9200", "ten", "66269", "Waterway", "Gas", "Wash", "4200", "119th", "Street", "KS.", "66209", "960803755", "BLUE", "14,2976", "FUEL", "TOTAL", "34.30", "DEBIT", "34.30", "vent", "Payment", "Primacy", "Account", "Entry", "11211", "esp", "000", "144886729", "Invoice", "30658", "SITE", "6872531", "REWARD", "scene", "889", "6144886729"]

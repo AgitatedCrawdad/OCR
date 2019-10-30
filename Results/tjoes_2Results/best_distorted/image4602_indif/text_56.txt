@@ -1,0 +1,48 @@
+" a201 Hest 119th Street
+Leawaod
+
+Stare 4723 ~ (913) 327-7203
+
+OPEN 8:00k4 TO 9:000H DAILY
+
+  
+ 
+ 
+
+sy CHAMOHILE TEA 2497
+WiFILE WHEAT BLTA 1.43 T
+1 ICED WHOLE HEAT QREAD ET
+SLICED SWISS 3.99 T
+SED TURKEY SIX 2:99 T
+Sst AL 912.75
+STATE TAX 1 $116
+TOTAL | wee 13.91
+ULCER 13.31
+PURCHASE - APPROVED
+3.91
+
+Tota USOs 13.
+
+SHocover Credit. Entry Hethod: = Chip
+5 KAKI ARRNAD
+
+CODE: Cosa SEO #: 07eS01
+
+  
+ 
+
+‘972507 3F BER 100F,
+Lickel ¥ 319279603415804773
+Teansl0: 105192796094158064
+
+(TeHS & K, helissa
+10-06-2019 01:10PH 0723 07 4444 6123
+THANE YOU FOR SHOPPIHG AT TRADER w0E'S
+won. traderjoes com
+Ina ide Trader Joe's (the podcast)
++ Live frox the Captain's Heating...
+available Septeaber 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 650, "blocksize": 171, "constant": 7, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["119th", "Street", "Stare", "4723", "327-7203", "OPEN", "DAILY", "TEA", "2497", "WHEAT", "1.43", "ICED", "WHOLE", "HEAT", "SLICED", "SWISS", "3.99", "TURKEY", "SIX", "912.75", "STATE", "TAX", "TOTAL", "wee", "13.91", "ULCER", "13.31", "PURCHASE", "APPROVED", "3.91", "13.", "Credit.", "Entry", "Chip", "BER", "319279603415804773", "105192796094158064", "10-06-2019", "0723", "4444", "6123", "THANE", "YOU", "FOR", "TRADER", "won.", "com", "Ina", "Trader", "Joe's", "Live", "the", "Captain's", "Heating...", "available", "16th"]

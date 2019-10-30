@@ -1,0 +1,53 @@
+TRADER JOE’S
+" 420} West 119th Street
+Leawood 6
+Store #123 - (313) 327-7209
+
+OPEN :004H TO 9:00PM DAILY
+
+ 
+
+GOURD TREE PUMPKIN CIDER 0.99 T
+BQ CUT SALMON . 10,99 T
+PITA CHIPS WITH SEA SALT 1.99 T
+YEVERAGE ALMOND UNSHEETENED OR 2.69 T
+YGTAT SHEET EACH 0.79 Tf
+GHYONS RED JUMBO EACH 0.99 T
+BAHASA EACH 0.57 T
+SEA «@ 0.19/EA
+SUBTOTAL $27.01
+STATE TAK 1 $2.46
+TOTAL. 529.47
+OF $23.47
+
+SCOVER
+PURCHASE + APPROVED
+ws0$ 23.47
+Chip
+
+Takals
+biscaver Credit ine Methods
+CARD. By KXXXXXNARKNKASS
+
+AUTH CODE: 011108 SEO #: (070825
+
+ARCS
+
+TE: 763934 7BE 12 7A2BA,
+Heket # 419284392337392310
+Trans¥D; 186192843923373426
+
+TTENS 8 8, Aaron
+10-11-2019 09;55AH 0729 07 8166 AES
+
+THANK YOU FOR SHOPP ERG AY TRADER JOE'S
+wie. trader Joes con
+Inside Trader doo’ (the podnaet)
+Episode 18; Que Spice Trade
+Avalteble October 14th
+
+7 i
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 650, "blocksize": 51, "constant": 17, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE\u2019S", "West", "119th", "Street", "Store", "327-7209", "OPEN", "DAILY", "GOURD", "TREE", "PUMPKIN", "CIDER", "0.99", "CUT", "SALMON", "10,99", "PITA", "CHIPS", "WITH", "SEA", "SALT", "1.99", "ALMOND", "2.69", "SHEET", "EACH", "0.79", "RED", "JUMBO", "EACH", "0.99", "EACH", "0.57", "SEA", "SUBTOTAL", "STATE", "TOTAL.", "529.47", "PURCHASE", "APPROVED", "23.47", "Chip", "Credit", "Methods", "CARD.", "011108", "ARCS", "763934", "419284392337392310", "186192843923373426", "Aaron", "10-11-2019", "0729", "8166", "THANK", "YOU", "FOR", "ERG", "TRADER", "JOE'S", "trader", "con", "Inside", "Trader", "Episode", "Que", "Spice", "Trade", "October", "14th"]

@@ -1,0 +1,52 @@
+TRADER JOE'S
+
+4201 West 119th Street
+Leawood KS 66209
+Store #723 - (913) 327-7209
+
+QPEN 8:00AM TO 9:00PM DAILY
+
+GOURD TREE PUMPKIN CIDER
+BBQ CUT SALMON
+PITA CHIPS WITH SEA SALT *
+BEVERAGE ALMOND UNSWEETENED OR
+POTATO SWEET EACH
+ONIONS REO JUMBO EACH
+BANANA EACH
+SEA «@ 0.19/EA
+
+SUBTOTAL §27.01
+STATE TAX 1 $2.45
+TOTAL $29.47
+
+§29.47
+USD$ 29.47
+
+OTSCOVER
+
+URCASE ~ APPROVED
+otal:
+
+Discover Credit Entry Methods Chip
+
+CARD 8: XXKXXKXKXNKX4Y97
+AUTH CODE: O1N10R © SEQ #: 070325
+
+ARC: 00
+
+TC: 7639347BE127A2BA
+Teket_ # 419284392337932310
+Tranei0: 186192843923373326
+
+ITEMS 9 8, Aaron
+10-11-2019 09:55AM 0723 07 5166 8065
+
+THANK YOU FOR SHOPPING AT TRADER JOE'S
+www trader joes con
+Inside Trader Joes (the odeaet )
+Episode 18; Our Spice rade
+Ava}lable Qutober 14th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 71, "constant": 11, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "4201", "West", "119th", "Street", "66209", "Store", "327-7209", "DAILY", "GOURD", "TREE", "PUMPKIN", "CIDER", "BBQ", "CUT", "SALMON", "PITA", "CHIPS", "WITH", "SEA", "SALT", "BEVERAGE", "ALMOND", "UNSWEETENED", "POTATO", "SWEET", "EACH", "ONIONS", "JUMBO", "EACH", "BANANA", "EACH", "SEA", "SUBTOTAL", "STATE", "TAX", "TOTAL", "29.47", "APPROVED", "Discover", "Credit", "Entry", "Methods", "Chip", "CARD", "SEQ", "070325", "419284392337932310", "186192843923373326", "ITEMS", "Aaron", "10-11-2019", "0723", "5166", "8065", "THANK", "YOU", "FOR", "SHOPPING", "TRADER", "JOE'S", "trader", "con", "Inside", "Trader", "Episode", "Our", "Spice", "14th"]

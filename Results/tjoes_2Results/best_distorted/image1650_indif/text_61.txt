@@ -1,0 +1,62 @@
+iE rraper JOE'S
+
+4201 West 119th Street
+Leawood KS 66209
+Store #723 - (913) 327-7209
+OPEN @:00AM TO 9:006H DAILY
+
+    
+
+  
+
+* RG CHAMOMILE. TEA 2.497
+j AM Wie WHEAT PLTA 149
+IGEO WHOLE WHEAT BREAD U3 T
+J SLICED Seiss 3:99
+SCD TURKEY SKD 2199 F
+SUBTOTAL $12.75
+STATE TAX 1 31°16
+TOTAL $13.91
+UiSLOVER $13.31
+
+PURCHASE - APPROVED:
+
+“Total: USO$ 13.9
+fg Ulscover Credit Entry Kethod: Chip
+SARL 0000000004997
+
+AUTH pee 00684R = SEQ #: 078501
+
+ARC,
+
+IRL:
+
+SC: 9725C73FB80B 100F
+
+@ Vicket # 319279509415804779
+Trans[D: 185192795094 15064
+
+ 
+  
+ 
+
+(TEMS 5 K, Melissa
+10-06-2019 01:10PM 0723 07 4444 6123
+
+THANK YOU FOR SHUPPING AT TRADER JOE'S
+www. trader jaes con
+Inside Trader Joe's (the podcast)
+wT: Live from the Captain's Meeting...
+Available September 16th
+
+ 
+  
+  
+ 
+
+Paap at pe
+pity Ut ig at
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 91, "constant": 11, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["JOE'S", "4201", "West", "119th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "CHAMOMILE.", "TEA", "2.497", "WHEAT", "149", "WHOLE", "WHEAT", "BREAD", "SLICED", "TURKEY", "2199", "SUBTOTAL", "STATE", "TAX", "TOTAL", "PURCHASE", "13.9", "Credit", "Entry", "Chip", "0000000004997", "pee", "SEQ", "078501", "319279509415804779", "185192795094", "15064", "Melissa", "10-06-2019", "0723", "4444", "6123", "THANK", "YOU", "FOR", "TRADER", "JOE'S", "trader", "con", "Inside", "Trader", "Joe's", "Live", "from", "the", "Captain's", "Meeting...", "Available", "September", "16th", "pity"]

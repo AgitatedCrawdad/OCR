@@ -1,0 +1,35 @@
+ORS
+
+Over Tend Park = 913-327-7770
+10/11/2029 09:96 AM EXPIRES 01/09/2000
+
+UT UT Ts
+
+CALNDRY CLEANING AND CLOSET
+(003040069 ATR FRESHENE 1 g2
+903060234 CASCADE T 5.98
+STATIONERY @ OFFICE SUPPLIES
+(081051951 PAPER T ($8.78
+
+SUBTOTAL = $20.37
+T = KS TAX 9.10000 on $20.37 $1.05
+TOTAL, 22:29
+
+4997 DISCOVER NETWORK CHARGE §29 29
+‘AD: 0000001523010
+
+Discover
+
+AUTH cone: Dt182R
+
+RECH#2-$284-1757-0163-0958-9 VODNTS1~259-045,
+
+Help rake your Target Run better.
+Take a 2 nirute survey about today’s trip
+
+CURNTENOS EN ESPAROL
+Planes take this survey within 7 dave
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 2, "dilate_kernel": 3, "dilate_iter": 1, "width": 500, "blocksize": 51, "constant": 10, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["ORS", "Over", "Tend", "Park", "913-327-7770", "EXPIRES", "CLEANING", "AND", "CLOSET", "903060234", "CASCADE", "5.98", "STATIONERY", "OFFICE", "SUPPLIES", "PAPER", "SUBTOTAL", "TAX", "9.10000", "4997", "DISCOVER", "NETWORK", "CHARGE", "0000001523010", "Discover", "Help", "rake", "your", "Target", "Run", "better.", "Take", "survey", "about", "trip", "Planes", "take", "this", "survey", "within"]

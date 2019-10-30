@@ -1,0 +1,47 @@
+md
+
+eet:
+
+4200 W 118th Streak
+Leawood KS 68209
+
+Waterway Gas & Wash
+4208 YW 115th Street
+Leawood, KS
+
+66209
+
+oot eee 2 960803755
+O7;11:87
+
+PUMPS 6,
+BLUE 0 14.2976
+PRICE/GAL $2,399
+FUEL TOTAL % 34.38
+DEBIT & 34.38
+
+ 
+
+EAST
+
+Payment from
+Priaary Account,
+OTERO ESS
+fay ethndSuped
+futh Rt
+
+Resp Bat ate .
+Stans AIAEEO?29 :
+Invoice # 386583 f
+
+ 
+
+BP SITE 8D: 6872691 ft
+REWARD é
+see 6608
+
+Stans 8144896729
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 91, "constant": 5, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["4200", "118th", "Streak", "68209", "Waterway", "Gas", "Wash", "4208", "115th", "Street", "66209", "960803755", "PUMPS", "BLUE", "14.2976", "FUEL", "TOTAL", "34.38", "DEBIT", "34.38", "EAST", "Payment", "from", "fay", "Resp", "Bat", "ate", "Stans", "Invoice", "386583", "SITE", "6872691", "REWARD", "see", "6608", "Stans", "8144896729"]

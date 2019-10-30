@@ -1,0 +1,45 @@
+«Overland Park ~ 913-327-7770
+x lorti/2019 09:36 AM EXPIRES 01/09/2020
+
+HOMUMINOVNY VTA TVA HOUT
+
+LAUNDRY CLEANING AND CLOSET
+
+003040069 ‘AIR FRESHENE a. $8.59
+003060234 CASCADE $5.99
+STATIONERY 8 OFFICE SUPPLIES <=
+081051951 PAPER Te. $8.79
+
+yp i - 2) SUBTOTAL. $20.37
+E.=5KS TAX 9.10000 on $20.37 > $1.85
+= TOTAL $22.22
+#4997 DISCOVER NETWORK CHARGE $22.22
+ATO: A0000001523010
+
+Sacks Discover
+
+01182R
+
+Help make your Target Run better.
+Take 2 minute survey about today's trip
+3 informtarget. *
+User ID: 7071 5824 3989
+Password: 696 417
+
+CUpNTENOS EN ESPApOL © >> °.é
+
+Please take this survey within 7 days
+
+ee
+
+Sets
+
+ae
+
+i
+
+bears
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 151, "constant": 3, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["Park", "913-327-7770", "EXPIRES", "TVA", "LAUNDRY", "CLEANING", "AND", "CLOSET", "003040069", "003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "081051951", "PAPER", "Te.", "SUBTOTAL.", "TAX", "9.10000", "TOTAL", "DISCOVER", "NETWORK", "CHARGE", "Sacks", "Discover", "Help", "make", "your", "Target", "Run", "better.", "Take", "minute", "survey", "about", "today's", "trip", "User", "7071", "5824", "3989", "696", "417", "Please", "take", "this", "survey", "within", "days", "Sets", "bears"]

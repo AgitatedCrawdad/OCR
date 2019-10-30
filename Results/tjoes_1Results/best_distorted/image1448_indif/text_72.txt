@@ -1,0 +1,49 @@
+TRADER JOE'S
+
+4201 West 119th Street
+Leawood KS 66209
+Store #723 - (913) 327-7209
+OPEN 8:00AM TO 9:00PM DAILY
+
+GOURD TREE PUMPKIN CIDER 8.99
+880 CUT SAL! 0.99
+PITA HIPS WK SEA SALT * 4,99
+BEVERAGE ALMOND UNSWEETENED OR 2.69
+POTATO SHEET EACH 0.79
+RIGS RED JED EACH * 0.99
+BANANA EAC! 0.57
+EA a 0.19/64
+
+a gu
+
+3 a
+$29.47
+
+SUBTOTAL
+STATE TAX 1
+TOTAL
+
+DISCOVER
+me HASE - APPROVED
+
+als 0$ 29.47
+Stecover Credit — Entry Method: Chip
+CARD #: SS ySDOOO SST
+AH pub OU0R © SEQ #: 070325
+
+te * ebso47R 1278784
+Teket_ # 419284392337932310
+TraneIO; 186192843923972226
+
+ITEMS 9 8, Aaron
+10-11-2019 09;554M 0723 07 $166 8065
+
+THANK YOU FOR SHOPPING AT oA ROER JOE'S
+trader joes .
+Tne ida vias doo’a (the Festa
+Epigode 18; Our Spica rade
+Available Gstaber 14th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 51, "constant": 9, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "4201", "West", "119th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "GOURD", "TREE", "PUMPKIN", "CIDER", "8.99", "880", "CUT", "0.99", "PITA", "HIPS", "SEA", "SALT", "4,99", "BEVERAGE", "ALMOND", "UNSWEETENED", "2.69", "POTATO", "SHEET", "EACH", "0.79", "RIGS", "RED", "JED", "EACH", "0.99", "BANANA", "0.57", "SUBTOTAL", "STATE", "TAX", "TOTAL", "DISCOVER", "APPROVED", "29.47", "Credit", "Entry", "Chip", "CARD", "SST", "pub", "SEQ", "070325", "1278784", "419284392337932310", "186192843923972226", "ITEMS", "Aaron", "10-11-2019", "0723", "8065", "THANK", "YOU", "FOR", "SHOPPING", "JOE'S", "trader", "Our", "Spica", "Available", "14th"]

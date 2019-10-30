@@ -1,0 +1,34 @@
+ORS
+
+‘Overland Park - 913-327-7770
+10/11/2019 08:96 AM EXPIRES 01/09/2020
+
+LAUNDRY. CLEANING AND CLOSET
+003040069 ATR FRESHENE T $8.59
+003060234 CASCADE T $5.99
+STATIONERY & OFFICE SUPPLIES
+(082051951 PAPER T $8.79
+
+SUBJOTAL = 620.97
+
+T © KS TAX.9..30000 on, a $1.85
+“ TAL «$22.22
+
+4997 DESCOVER NETWORA CHARGE $22.22
+" ‘AD: 9000001523010
+Discover
+
+AUTH CODE: O11e2R
+
+RECK2-9284-1757-0163-0388-3 VCDH781~259-845
+Help wake your Target Run better
+Take 8 2 minute survey about today's trip
+ser. 1D; 7071 5624 9983
+Peneword: 695 417
+CURNTENOS EN ESPAeOL
+
+Ploase take this survey within 7 dave
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 2, "dilate_kernel": 3, "dilate_iter": 2, "width": 500, "blocksize": 151, "constant": 1, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["ORS", "Park", "913-327-7770", "EXPIRES", "LAUNDRY.", "CLEANING", "AND", "CLOSET", "003040069", "003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "PAPER", "620.97", "4997", "CHARGE", "9000001523010", "Discover", "Help", "wake", "your", "Target", "Run", "better", "Take", "minute", "survey", "about", "today's", "trip", "7071", "5624", "9983", "695", "417", "take", "this", "survey", "within"]

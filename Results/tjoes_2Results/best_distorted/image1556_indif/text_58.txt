@@ -1,0 +1,92 @@
+pet fa eg
+
+Mall las ll:
+
+    
+  
+
+   
+
+4201 Hest 119th Street
+Leawood KS 66209
+Store #723 - (913) 327-7209
+
+GPEN 8:00AM TO 9:QUPM DAILY
+
+  
+     
+   
+   
+ 
+       
+   
+
+ 
+ 
+ 
+
+es CHAMOMILE TEA 2.497
+ili WHEAT PITA 1.497
+ICED WHOLE WHEAT BREAD L79T
+MICE SWISS 3.99 T
+SLU TURKEY SHKD. 2.99 T
+
+ 
+ 
+   
+   
+   
+   
+   
+     
+     
+    
+      
+    
+   
+   
+   
+   
+   
+   
+   
+   
+    
+
+ats |SHAL, $12.75
+
+sTSTE TAK 1 $1.16
+
+TOTAL $13.91
+
+ui LOVER $13.91
+my PUSCHASE - APPROVED
+
+lota}: USD§ 13.91
+
+sjotuver Credit Entry Method: Chip
+ASL: 3000000004997
+
+SuTH CODE: 006848 — SEQ s: 076501
+aR.
+
+R00
+
+10° 97250736 BBoB 100F
+Vicket # 3192795094 15804773
+ivans(D; 165192795094 158064
+
+   
+
+(TEMS &. K, Melissa
+10-06-2019 01:10PM 0723 07 4444 6123
+
+WANK YOU FOR SHUPPING AT TRADER JOE'S
+wis. trader Joes.con
+Inside Trader .ioe's (the podcast
+#7: Live from the Captain's Keeting.
+avallatle Seotenber 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 151, "constant": 17, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["pet", "Mall", "las", "4201", "119th", "Street", "66209", "Store", "327-7209", "DAILY", "CHAMOMILE", "TEA", "2.497", "WHEAT", "PITA", "1.497", "ICED", "WHOLE", "WHEAT", "BREAD", "MICE", "SWISS", "3.99", "TURKEY", "2.99", "TOTAL", "LOVER", "APPROVED", "13.91", "Credit", "Entry", "Chip", "3000000004997", "006848", "SEQ", "076501", "97250736", "3192795094", "15804773", "165192795094", "158064", "Melissa", "10-06-2019", "0723", "4444", "6123", "YOU", "FOR", "TRADER", "JOE'S", "trader", "Inside", "Trader", "Live", "from", "the", "Captain's", "16th"]

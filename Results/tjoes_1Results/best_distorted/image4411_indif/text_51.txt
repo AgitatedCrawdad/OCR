@@ -1,0 +1,48 @@
+OBIT
+
+Qyerland Park ~ 913-327-7770
+10/11/2019 09:36 AM EXPIRES 01/09/2020
+
+HUDBLOUVD LAW UU LOOTED CY AICENE A
+LAUNDRY CLEANING AND CLOSET
+
+003040069 ATR FRESHENE T $8.59
+003060234 CASCADE T $5.99
+STATIONERY & OFFICE SUPPLIES
+
+081051951 PAFER T $5.79
+SUBTOTAL, $20.37
+T = KS TAX 9.10000 on 20. $1.85
+TOTAL $22.22
+
+4997 DISCOVER NETWORK CHARGE $22.2.
+AID: ASe00001823010
+Discover
+
+AUTH CODE: o1182R
+
+DHL ~ 259-845
+
+ 
+
+RECH2~9284-2757-1
+
+  
+
+  
+
+Help make your Target Run better.
+Jake a 2 minute survey about today's trip
+
+inforntarget .con
+User ID: 7071 9824 3983
+
+Password: 696 417
+
+CUpNTENOS EN ESPAyOL
+
+Please take this survey within 7 days
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 151, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["OBIT", "Park", "913-327-7770", "EXPIRES", "LAW", "LOOTED", "LAUNDRY", "CLEANING", "AND", "CLOSET", "003040069", "003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "081051951", "TAX", "9.10000", "20.", "TOTAL", "4997", "DISCOVER", "NETWORK", "CHARGE", "Discover", "259-845", "Help", "make", "your", "Target", "Run", "better.", "Jake", "minute", "survey", "about", "today's", "trip", "User", "7071", "9824", "3983", "696", "417", "Please", "take", "this", "survey", "within", "days"]

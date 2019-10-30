@@ -1,0 +1,56 @@
+4200 W LI5th Street
+Leawood 89 66203
+
+Waterway Gas & Wash
+4208 W 119th Street
+Leawood, KS
+
+66289
+
+16/17/2019 960863755
+O7t11187 PM
+
+PUMPER 6
+BLUE ,
+PRICE/GAL *
+FUEL TOTAL & 34.38
+
+DEBIT - “ft “ 94.30
+
+14,2976
+%2.399
+
+   
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+  
+
+ 
+
+OEBIT
+
+Payment froa
+Primary Account
+TERRE EERKER ENG G88
+Entry Method: Svized
+fuéh #2 V712E
+Resp Code: 088
+Stan: 6144886729
+Invoice #: 388583
+BP SITE ID: 6872631
+
+4
+REWARD
+sconce 6658
+Stan! 0149886729
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 91, "constant": 3, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["4200", "Street", "66203", "Waterway", "Gas", "Wash", "4208", "119th", "Street", "66289", "960863755", "PUMPER", "BLUE", "FUEL", "TOTAL", "34.38", "DEBIT", "94.30", "14,2976", "Payment", "Primary", "Account", "TERRE", "ENG", "Entry", "Resp", "088", "6144886729", "Invoice", "388583", "SITE", "6872631", "REWARD", "sconce", "6658", "0149886729"]

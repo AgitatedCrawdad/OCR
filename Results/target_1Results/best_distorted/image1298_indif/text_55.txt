@@ -1,0 +1,65 @@
+Omi!
+
+Overland Park + 913-327-7770
+10/11/2019 09:36 AM EXPIRES 01/09/2020
+
+COCCI CUE CIE TIE QUE UUM ATE ah
+
+LAUNDRY CLEANING AND CLOSET
+003040069 AIR FRESHENE T $8.59
+003060234 CASCADE T $5.99
+STATIONERY & OFFICE SUPPLIES
+081051951 PAFER $5.79
+
+   
+
+   
+   
+       
+     
+  
+
+     
+
+SUBTOTAL $20.37
+= KS TAX 9.10000 on $20.37 $1.85
+AL $2. 2
+
+TOT
+4997 DISCOVER NETWORK CHARGE $22
+AID: 0000001823610
+
+cover
+AUTH CODE:
+
+     
+ 
+ 
+      
+     
+      
+
+1 se
+01182R
+
+ 
+
+REC#2-9284-1757-0163-0358-3 VCD#751-259- 845
+
+ 
+
+Help make your Target Run better.
+Take a 2 winute survey about today's trip
+
+informtargst.con
+User ID: 7071 5824 9989
+
+Password: 696 417
+
+CURNTENOS EN ESPAgOL
+
+Please take this survey within 7 days
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 650, "blocksize": 51, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["Overland", "Park", "913-327-7770", "EXPIRES", "COCCI", "CUE", "TIE", "QUE", "ATE", "LAUNDRY", "CLEANING", "AND", "CLOSET", "003040069", "AIR", "003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "081051951", "SUBTOTAL", "TAX", "9.10000", "TOT", "4997", "DISCOVER", "NETWORK", "CHARGE", "0000001823610", "cover", "845", "Help", "make", "your", "Target", "Run", "better.", "Take", "survey", "about", "today's", "trip", "User", "7071", "5824", "9989", "696", "417", "Please", "take", "this", "survey", "within", "days"]

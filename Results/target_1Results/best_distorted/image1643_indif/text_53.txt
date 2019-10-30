@@ -1,0 +1,38 @@
+a3 Overland Park - 913-327-7770 :.
+20/11/2019 09:36 AM EXPIRES 01/09/2020
+
+HUMMING VTA TUT WOT
+
+LAUNDRY CLEANING AND CLOSET
+
+003040069 ATR FRESHENE Al. +59
+003060234 CASCADE tT 99
+STATIONERY & OFFICE SUPPLIES . «
+
+081051951 PAPER T $5.79
+
+Srp my en me SUBTOTAL $20.37
+5{S: TAX 9.10000 on $20.37 $1.85
+
+ae TOTAL $22.22
+4997 DISCOVER NETWORK CHARGE $22.92
+° : ATO: 40000001523010
+
+“ Discover
+
+01182R
+
+Help make your Target Run better.
+Take a 2 minute survey about today's trip
+
+informtarget com
+. Weer. ID: 70715834 9983
+Password: 696 417
+
+CUpNTENOS EN ESPApOL
+
+Pleasé take this survey within 7 day
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 91, "constant": 3, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["Overland", "Park", "913-327-7770", "EXPIRES", "HUMMING", "TUT", "WOT", "LAUNDRY", "CLEANING", "AND", "CLOSET", "003040069", "Al.", "003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "081051951", "PAPER", "SUBTOTAL", "TAX", "9.10000", "TOTAL", "4997", "DISCOVER", "NETWORK", "CHARGE", "40000001523010", "Discover", "Help", "make", "your", "Target", "Run", "better.", "Take", "minute", "survey", "about", "today's", "trip", "com", "Weer.", "70715834", "9983", "696", "417", "take", "this", "survey", "within", "day"]

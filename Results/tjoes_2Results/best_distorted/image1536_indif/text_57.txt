@@ -1,0 +1,82 @@
+TRADER JOE'S
+
+4201 Hest 119th Street
+Leawood KS 66209
+
+Store #723 ~ (913) 327-1209
+
+OPEN 8:00AM TO 9:QUPM DAILY
+
+A its CHAMOMILE TEA
+
+ 
+ 
+ 
+
+2.497
+SHALE MHEAT PLTA 1.497
+AIJCEU WHOLE WHEAT BREAD LI9T
+MACEDO SHISS 3.59 T
+SLU TURKEY SHKD. 2.997
+
+ 
+ 
+   
+ 
+ 
+   
+  
+     
+  
+  
+
+  
+
+SUS] HAL, $12.75
+aT STE TAK 1 $1.16
+VOTAL $13.91
+i LOVER $13.91
+
+  
+
+PURCHASE - APPROVED.
+lota}: USDS
+stetover Credit Entry Method: Chip
+Ast: 300000 00004997
+
+4UTH CODE: 00684R — SEQ s: 076501
+
+aRi, 00
+
+972507 3° BBoB 100F
+
+Vicket # 3192795094 15804773
+Frang(D; 185192795094 158064
+
+  
+  
+
+ 
+ 
+
+     
+ 
+   
+    
+    
+    
+   
+      
+
+ITUHS & K, Melissa
+10-06-2019 01:10PM 0723 07 4444 6123
+
+THANK YOU FOR SHUPPING AT TRADER JOE"S
+wn. trader jaes.com
+Inside Trader Joe's (the podcast)
+#7: Live from the Captaia’s Net ing...
+avallable September 16th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 700, "blocksize": 131, "constant": 17, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "4201", "119th", "Street", "66209", "Store", "327-1209", "OPEN", "DAILY", "its", "CHAMOMILE", "TEA", "2.497", "SHALE", "1.497", "WHOLE", "WHEAT", "BREAD", "3.59", "TURKEY", "2.997", "STE", "LOVER", "PURCHASE", "APPROVED.", "Credit", "Entry", "Chip", "300000", "00004997", "SEQ", "076501", "972507", "3192795094", "15804773", "185192795094", "158064", "Melissa", "10-06-2019", "0723", "4444", "6123", "THANK", "YOU", "FOR", "TRADER", "trader", "Inside", "Trader", "Joe's", "Live", "from", "the", "Net", "September", "16th"]

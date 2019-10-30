@@ -1,0 +1,40 @@
+4200 W 119th Street
+Leaaood KS 66209
+
+Waterway Gas & Wash
+4206 W 119th Street
+Leawood, KS
+
+66289
+
+1671772019 968803755
+67:11:67 PM
+
+PUMP# 6
+,297G
+
+BLUE 14
+
+PRICE/GAL $2,399
+FUEL TOTAL $ 34.36
+DEBIT * 34.38
+
+oeBIT
+
+Paynent from
+Primary Account
+soon 6688
+Entry Method: Sviped
+futh #3 172
+Resp Code: 088
+Stan: 6144886729
+Invoice #; 306583
+BP SITE ID; 6872631
+
+REWARD
+roo 888
+Stans 0244886729
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 111, "constant": 11, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["4200", "119th", "Street", "66209", "Waterway", "Gas", "Wash", "4206", "119th", "Street", "66289", "1671772019", "968803755", "BLUE", "FUEL", "TOTAL", "34.36", "DEBIT", "34.38", "from", "Primary", "Account", "soon", "6688", "Entry", "172", "Resp", "088", "6144886729", "Invoice", "306583", "SITE", "6872631", "REWARD", "888", "Stans", "0244886729"]

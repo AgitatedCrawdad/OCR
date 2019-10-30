@@ -1,0 +1,46 @@
+Omi
+
+Overland Park ~ 913-327-7770
+10/1193819 O8-98 Av EXPIRES 01/08/2020
+
+UOUCTAMNI ASE TCL TEAST VUE
+
+Y CLEANING AND) CLOSET
+CooittbeS Atk PRESEN TI $8.59
+003060234 CASCADE. T $8.99
+
+STATIONERY & OFFICE SUPPLIES
+OBEOBLO51 PAPER T $5.79
+
+T = XS FAX,9, 10000. same | ae
+. aa :
+1997 a ao Ba 3B
+w46
+Wo Abooneg: 520000
+Discover
+AUTH CODE: 011828
+
+ 
+
+ 
+
+ 
+
+RECHD-9284-17ET- 169-0068-3 veoy7o1-259- 845
+
+Help aake your Target Run better.
+Tako 8 2 minute survey about today’s trip
+
+ 
+
+ 
+
+eee BOE TOT ae 08
+“"paseword: 696 417
+
+CUpNTENOS EN ESPAROL
+Plosse take this survey within 7 dave
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 500, "blocksize": 151, "constant": 1, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["Overland", "Park", "913-327-7770", "EXPIRES", "ASE", "CLEANING", "CLOSET", "003060234", "CASCADE.", "STATIONERY", "OFFICE", "SUPPLIES", "PAPER", "10000.", "same", "1997", "520000", "Discover", "011828", "169-0068-3", "845", "Help", "your", "Target", "Run", "better.", "minute", "survey", "about", "today\u2019s", "trip", "TOT", "696", "417", "take", "this", "survey", "within"]

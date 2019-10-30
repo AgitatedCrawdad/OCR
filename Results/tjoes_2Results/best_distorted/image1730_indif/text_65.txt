@@ -1,0 +1,79 @@
+_ ae
+Etraver JOE'S
+
+4201 West 119th Street
+Leawood KS 66209
+Store #723 - (913) 327-7209
+OPEN 8:00AM TO 9:00PH DAILY
+
+ 
+
+me 8s CHAMOMILE TEA 2.49 T
+Be EE WHEAT PITA 1.49 F
+SLICED HOLE WHEAT BREAD 1.79 T
+of CED SWISS 3.99 T
+SLLU TURKEY SHKD- 2.99 F
+
+  
+   
+       
+ 
+      
+     
+ 
+      
+     
+   
+ 
+      
+
+SUSTOTAL $12.75
+
+ 
+
+SLATE TAX 1 $1.16
+TOTAL $13.91
+i LOYER $13.91
+PURCHASE - APPROVED.
+
+Jotal: USO$ 13.91
+
+uistover Credit Entry Hethod: Chip
+TAMIR: 0000000004997
+
+ith COOE: O0684R SEO #: 078501
+
+ARU:
+
+it: 9725C736B80B 100F
+
+licket # 3192795094 15904779
+Teans[D: 185192795094158064
+
+(TEMS 5 K, Helis
+10-06-2019 01:10PM 0723 07 4444 4123
+
+  
+
+THANK YOU FOR SHUPPING AT TRADER JOE'S
+wow. trader joes con
+Inside Trader Joe's (the acdcast)
+a7: Live from the Captain's Heet ing...
+Available September 16th
+
+ 
+ 
+
+Wy rea
+
+a 1%)
+on oa " tee
+
+Ty Mad a EB he Ey
+Apia “ly Mg! }
+PP attef ae oto
+po pha ie Ag a
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 171, "constant": 11, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["JOE'S", "4201", "West", "119th", "Street", "66209", "Store", "327-7209", "OPEN", "DAILY", "CHAMOMILE", "TEA", "2.49", "WHEAT", "PITA", "1.49", "SLICED", "HOLE", "WHEAT", "BREAD", "1.79", "CED", "SWISS", "3.99", "TURKEY", "2.99", "SLATE", "TAX", "TOTAL", "PURCHASE", "APPROVED.", "13.91", "Credit", "Entry", "Chip", "0000000004997", "078501", "3192795094", "15904779", "185192795094158064", "10-06-2019", "0723", "4444", "4123", "THANK", "YOU", "FOR", "TRADER", "JOE'S", "wow.", "trader", "con", "Inside", "Trader", "Joe's", "Live", "from", "the", "Captain's", "Available", "September", "16th", "tee", "Mad", "Apia"]

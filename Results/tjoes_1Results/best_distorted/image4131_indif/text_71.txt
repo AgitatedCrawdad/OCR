@@ -1,0 +1,45 @@
+* 4201 West 119th Street
+Leawood Kt
+
+Store #723 (313) 327-7208
+
+OPEN 8:00AM TO 9:00PH DAILY
+
+ 
+
+GOURD TREE PUMPKIN CUDER 8,99 T
+8B CUT SALMON ‘ 10,99 T
+PITA CHIPS GETH SEA SALT 1.99 T
+BEVERAGE ALMOND UNSWEETENED OR 2.69 T
+POTATO ‘SHEET EACH 0.79 T
+ON{ONS REO JUHBO EACH 0.99 T
+BANANA EACH 0.87 T
+SEA 90.19/ER .
+SUBTOTAL $27.0)
+STATE TAX 1 §2.46
+TOTAL $29.47
+$29.47
+Tokais Usb$ 29.47
+Discover Credit Entry Method; == Chip
+
+CARD #5 KXXAXXKXXXKRAG
+AUTH CODE; O1N1GR == SEQ #: 070325
+
+ARG! 00
+
+TC: 763934 7BE t27AZBA
+Ticket # 499284392337332310
+TranstO: 186192843923972326
+
+TTENS 9 8, Aaron
+iO-#1-2009 09,554 0724 07 8168 BOGS
+
+THANK YOU FOR SHOPPING AT TRADER JOE'S
+bruv tradar’Joes CON
+Inside Trader Joe's (the podcast)
+Episode 18: Our Spice Trade
+Available October 14th
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 650, "blocksize": 51, "constant": 11, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["4201", "West", "119th", "Street", "Store", "327-7208", "OPEN", "DAILY", "GOURD", "TREE", "PUMPKIN", "8,99", "CUT", "SALMON", "10,99", "PITA", "CHIPS", "SEA", "SALT", "1.99", "BEVERAGE", "ALMOND", "UNSWEETENED", "2.69", "POTATO", "EACH", "0.79", "EACH", "0.99", "BANANA", "EACH", "0.87", "SEA", "SUBTOTAL", "STATE", "TAX", "TOTAL", "29.47", "Discover", "Credit", "Entry", "Chip", "CARD", "SEQ", "070325", "763934", "Ticket", "499284392337332310", "186192843923972326", "Aaron", "09,554", "0724", "8168", "BOGS", "THANK", "YOU", "FOR", "SHOPPING", "TRADER", "JOE'S", "CON", "Inside", "Trader", "Joe's", "Episode", "Our", "Spice", "Trade", "Available", "October", "14th"]

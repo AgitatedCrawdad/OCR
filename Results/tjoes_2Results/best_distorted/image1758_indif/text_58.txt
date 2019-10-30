@@ -1,0 +1,75 @@
+it TRADER JOE'S
+
+4201 West 119th Street
+Leawosd KS 66209
+Stare 3 ~ (919) 327-7209
+
+OPEN 8:00AM TQ 9:00PM DAILY
+
+ 
+   
+   
+    
+ 
+
+  
+    
+ 
+
+A cts CHAMOMILE TEA 2.497
+LE WHEAT PITA 1.49 7
+
+1 CED oie WHEAT BREAD LIT
+
+sl CED SHES: 3.99 T
+edb TURKEY SMD 2,99 T
+
+ 
+     
+      
+
+SUS TOTAL $12.75
+FAHE TAX 1 $1.16
+rOTAL $13.91
+
+Bs LOVER $13.91
+PUNCHASE > APPROVED
+
+     
+      
+
+olel: USD$ 13.91
+viztaver Credit Entry Kethod: Chip
+AoA As RNR XKAXKSSO?
+
+Ht ope Q0684R == SEQ e: 078501
+
+& 97250 (36 B6DB ODF
+Th bet # 3192795094 15804779
+TranstO: 185192795094 158064
+
+    
+ 
+            
+     
+   
+  
+     
+  
+
+aM Melissa
+lo te dors GI:10PH 0723 07 seat "6123
+
+ 
+  
+  
+
+THANK YUU FOR SHOPPING AT TRADER JOE"S:
+wi. trader joes .com
+jfistde Trader .loe's (the pcdcast)
+: Live from the Caplain's Meeting. .
+Available September léth
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 191, "constant": 19, "thresh_type": "gaussian", "scanned": false}
+ ---------------------------------------------------------------
+["TRADER", "JOE'S", "4201", "West", "119th", "Street", "66209", "Stare", "327-7209", "OPEN", "DAILY", "CHAMOMILE", "TEA", "2.497", "WHEAT", "PITA", "1.49", "CED", "WHEAT", "BREAD", "LIT", "CED", "3.99", "TURKEY", "2,99", "SUS", "TOTAL", "TAX", "LOVER", "APPROVED", "13.91", "Credit", "Entry", "Chip", "ope", "SEQ", "078501", "97250", "bet", "3192795094", "15804779", "185192795094", "158064", "Melissa", "0723", "seat", "THANK", "FOR", "SHOPPING", "TRADER", "trader", "Trader", "Live", "from", "the", "Meeting.", "Available", "September"]

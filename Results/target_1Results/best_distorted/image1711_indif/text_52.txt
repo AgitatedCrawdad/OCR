@@ -1,0 +1,40 @@
+Oishi!
+
+Oyerland Park - 913-327-7770
+10/11/2019 09:36 AM EXPIRES 01/09/2020
+
+HUM UINOV UE UT TUT OOO
+
+LAUNDRY CLEANING AND CLOSET
+003040069 AIR FRESHENE 1 $8.59
+003060234 CASCADE T $5.99
+STATIONERY 8 OFFICE SUPPLIES
+081051951 PAPER T $8.79
+
+SUBTOTAL. $20.37
+
+T =.KS TAX 9.10000 on $20.37 $1.85
+. TOTAL $22.22
+*4997 DISCOVER NETWORK CHARGE $22.22
+AIO: 0000001523010
+
+Discover
+
+AUTH CODE: = 01182R
+
+RECH2-9284-1757-016: VCD#751-259-845
+
+Help make your Target Run better.
+Take a 2 minute survey about today's trip
+
+informtarget .con
+User ID: 7071 9824 3983
+
+Password: 696 417
+CUpNTENOS EN ESPApOL
+
+Please take this survey within 7 days
+ ---------------------------------------------------------------
+{"erode_kernel": 3, "erode_iter": 1, "dilate_kernel": 3, "dilate_iter": 1, "width": 750, "blocksize": 151, "constant": 11, "thresh_type": "mean", "scanned": false}
+ ---------------------------------------------------------------
+["Park", "913-327-7770", "EXPIRES", "HUM", "TUT", "OOO", "LAUNDRY", "CLEANING", "AND", "CLOSET", "003040069", "AIR", "003060234", "CASCADE", "STATIONERY", "OFFICE", "SUPPLIES", "081051951", "PAPER", "SUBTOTAL.", "TAX", "9.10000", "TOTAL", "DISCOVER", "NETWORK", "CHARGE", "0000001523010", "Discover", "Help", "make", "your", "Target", "Run", "better.", "Take", "minute", "survey", "about", "today's", "trip", "User", "7071", "9824", "3983", "696", "417", "Please", "take", "this", "survey", "within", "days"]
