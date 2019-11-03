@@ -1,4 +1,4 @@
-import Generate_images
+import parametersStudy.Generate_images
 import os
 import cv2
 import json

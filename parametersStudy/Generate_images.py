@@ -16,10 +16,10 @@ user package to clean up this script. Maybe i'll do that during the Rockets game
 #####################################################
 
 import cv2
-from scan import scan
+from Scan.scan import scan
 import os
 import numpy as np
-from image_class import image_ocr
+from parametersStudy.image_class import image_ocr
 
 
 
